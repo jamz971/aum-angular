@@ -1,0 +1,50 @@
+.list-group-item{
+  padding: 10px 15px 30px;
+}
+
+.picture {
+  float: left;
+  overflow: hidden;
+  position: relative;
+  z-index: 1;
+  height: 100px;
+  width: 100px;
+}
+
+.infos{
+  margin-left: 120px;
+  width: auto;
+}
+
+.city{
+	background: #ffcaea;
+	display: inline;
+	color: #adadad;
+	font-weight: bold;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	word-wrap: normal;
+}
+
+.tags {
+  
+  font-size: 13px;
+  font-weight: bold;
+  line-height: 1.1em;
+  height: auto;
+  margin-top: 9px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.tags a{
+	color: #fcb3cc;
+}
+
+.tags a:hover{
+  color: #ff0199;
+  text-decoration: none;
+  cursor: pointer;
+}

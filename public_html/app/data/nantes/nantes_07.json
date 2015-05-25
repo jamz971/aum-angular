@@ -1,0 +1,6055 @@
+{
+    "results": [
+        {
+            "id": 18267424,
+            "pseudo": "Clochette",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/18267424",
+            "age": 28,
+            "city": "Nantes",
+            "cover": "http://s4.adopteunmec.com/fr/4/2/4/7/6/2/8/1",
+            "last_cnx": "2015-02-13 18:35:36",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "14"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 116,
+                    "label": "frange"
+                },
+                {
+                    "id": 392,
+                    "label": "annagavalda"
+                },
+                {
+                    "id": 786,
+                    "label": "lespoupeesrusses"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 111008421,
+            "pseudo": "Sonia",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/111008421",
+            "age": 31,
+            "city": "Nantes",
+            "cover": "http://s1.adopteunmec.com/fr/1/2/4/8/0/0/1/1/1",
+            "last_cnx": "2015-02-13 18:35:51",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "4",
+                "13"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 20,
+                    "label": "yeuxverts"
+                },
+                {
+                    "id": 70,
+                    "label": "bcbg"
+                },
+                {
+                    "id": 307,
+                    "label": "beyonce"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 19326317,
+            "pseudo": "Améliiie",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/19326317",
+            "age": 28,
+            "city": "Nantes",
+            "cover": "http://s7.adopteunmec.com/fr/7/1/3/6/2/3/9/1",
+            "last_cnx": "2015-02-13 18:28:16",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "4"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 18,
+                    "label": "brune"
+                },
+                {
+                    "id": 657,
+                    "label": "zumba"
+                },
+                {
+                    "id": 52,
+                    "label": "séductrice"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 17867735,
+            "pseudo": "Samji",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/17867735",
+            "age": 35,
+            "city": "Nantes",
+            "cover": "http://s5.adopteunmec.com/fr/5/3/7/7/6/8/7/18",
+            "last_cnx": "2015-02-13 18:29:46",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "4",
+                "5",
+                "22"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 18,
+                    "label": "brune"
+                },
+                {
+                    "id": 24,
+                    "label": "nonfumeuse"
+                },
+                {
+                    "id": 89,
+                    "label": "glamrock"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 19028749,
+            "pseudo": "Oulmesse",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/19028749",
+            "age": 32,
+            "city": "Nantes",
+            "cover": "http://s9.adopteunmec.com/fr/9/4/7/8/2/0/9/1",
+            "last_cnx": "2015-02-13 18:29:46",
+            "last_cnx_label": "en ligne",
+            "style": "0",
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 18,
+                    "label": "brune"
+                },
+                {
+                    "id": 1015,
+                    "label": "assistante"
+                },
+                {
+                    "id": 104,
+                    "label": "bonbon"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 17928214,
+            "pseudo": "Léonie",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/17928214",
+            "age": 23,
+            "city": "Nantes",
+            "cover": "http://s4.adopteunmec.com/fr/4/1/2/8/2/9/7/14",
+            "last_cnx": "2015-02-13 18:20:16",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "4",
+                "14"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 20,
+                    "label": "yeuxverts"
+                },
+                {
+                    "id": 24,
+                    "label": "nonfumeuse"
+                },
+                {
+                    "id": 56,
+                    "label": "taquine"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 110932189,
+            "pseudo": "Macha",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/110932189",
+            "age": 46,
+            "city": "Nantes",
+            "cover": "http://s9.adopteunmec.com/fr/9/8/1/2/3/9/0/1/1",
+            "last_cnx": "2015-02-13 18:27:58",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "13"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 17,
+                    "label": "blonde"
+                },
+                {
+                    "id": 70,
+                    "label": "bcbg"
+                },
+                {
+                    "id": 25,
+                    "label": "fumeuse"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 18226924,
+            "pseudo": "Kwiki",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/18226924",
+            "age": 34,
+            "city": "Nantes",
+            "cover": "http://s4.adopteunmec.com/fr/4/2/9/6/2/2/8/1",
+            "last_cnx": "2015-02-13 18:35:25",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "4",
+                "22",
+                "35"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 9,
+                    "label": "cheveuxlongs"
+                },
+                {
+                    "id": 89,
+                    "label": "glamrock"
+                },
+                {
+                    "id": 146,
+                    "label": "radiohead"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 1775020,
+            "pseudo": "Hator",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/1775020",
+            "age": 25,
+            "city": "Nantes",
+            "cover": "http://s0.adopteunmec.com/fr/0/2/0/5/7/7/10",
+            "last_cnx": "2015-02-13 18:28:27",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "4",
+                "14",
+                "31",
+                "35"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 17,
+                    "label": "blonde"
+                },
+                {
+                    "id": 24,
+                    "label": "nonfumeuse"
+                },
+                {
+                    "id": 92,
+                    "label": "geekette"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 12919153,
+            "pseudo": "Diane",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/12919153",
+            "age": 36,
+            "city": "Nantes",
+            "cover": "http://s3.adopteunmec.com/fr/3/5/1/9/1/9/2/13",
+            "last_cnx": "2015-02-13 18:27:21",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "2",
+                "14"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 826,
+                    "label": "juriste"
+                },
+                {
+                    "id": 463,
+                    "label": "expo"
+                },
+                {
+                    "id": 24,
+                    "label": "nonfumeuse"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 110560362,
+            "pseudo": "Vega",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/110560362",
+            "age": 24,
+            "city": "Nantes",
+            "cover": "http://s2.adopteunmec.com/fr/2/6/3/0/6/5/0/1/1",
+            "last_cnx": "2015-02-13 18:29:23",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "14"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 25,
+                    "label": "fumeuse"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 15168136,
+            "pseudo": "Ju'",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/15168136",
+            "age": 21,
+            "city": "Nantes",
+            "cover": "http://s6.adopteunmec.com/fr/6/3/1/8/6/1/5/11",
+            "last_cnx": "2015-02-13 18:29:27",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "2",
+                "4",
+                "5",
+                "6",
+                "14"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 17,
+                    "label": "blonde"
+                },
+                {
+                    "id": 71,
+                    "label": "chic"
+                },
+                {
+                    "id": 815,
+                    "label": "sleepyhollow"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 16006977,
+            "pseudo": "Nana",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/16006977",
+            "age": 20,
+            "city": "Nantes",
+            "cover": "http://s7.adopteunmec.com/fr/7/7/9/6/0/0/6/6",
+            "last_cnx": "2015-02-13 18:31:08",
+            "last_cnx_label": "en ligne",
+            "style": "0",
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 39,
+                    "label": "lunettes"
+                },
+                {
+                    "id": 129,
+                    "label": "jazz"
+                },
+                {
+                    "id": 57,
+                    "label": "sensible"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 17417432,
+            "pseudo": "Guillou",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/17417432",
+            "age": 43,
+            "city": "Nantes",
+            "cover": "http://s2.adopteunmec.com/fr/2/3/4/7/1/4/7/2",
+            "last_cnx": "2015-02-13 18:29:34",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "14"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 10,
+                    "label": "cheveuxcourts"
+                },
+                {
+                    "id": 228,
+                    "label": "ski"
+                },
+                {
+                    "id": 26,
+                    "label": "nicopatch"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 110880615,
+            "pseudo": "Yolii",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/110880615",
+            "age": 19,
+            "city": "Nantes",
+            "cover": "http://s5.adopteunmec.com/fr/5/1/6/0/8/8/0/1/5",
+            "last_cnx": "2015-02-13 18:29:26",
+            "last_cnx_label": "en ligne",
+            "style": "0",
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 20,
+                    "label": "yeuxverts"
+                },
+                {
+                    "id": 120,
+                    "label": "etudiante"
+                },
+                {
+                    "id": 1117,
+                    "label": "wesanderson"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 19650505,
+            "pseudo": "Sab",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/19650505",
+            "age": 29,
+            "city": "Nantes",
+            "cover": "http://s5.adopteunmec.com/fr/5/0/5/0/5/6/9/8",
+            "last_cnx": "2015-02-13 18:36:26",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "6",
+                "12",
+                "13",
+                "14",
+                "31"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 588,
+                    "label": "bowling"
+                },
+                {
+                    "id": 92,
+                    "label": "geekette"
+                },
+                {
+                    "id": 236,
+                    "label": "seigneurdesanneaux"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 111011631,
+            "pseudo": "Angelb",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/111011631",
+            "age": 25,
+            "city": "Nantes",
+            "cover": "http://s1.adopteunmec.com/fr/1/3/6/1/1/0/1/1/2",
+            "last_cnx": "2015-02-13 18:35:12",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "1",
+                "12",
+                "22"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 17,
+                    "label": "blonde"
+                },
+                {
+                    "id": 826,
+                    "label": "juriste"
+                },
+                {
+                    "id": 89,
+                    "label": "glamrock"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 16264524,
+            "pseudo": "Oulala",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/16264524",
+            "age": 35,
+            "city": "Nantes",
+            "cover": "http://s4.adopteunmec.com/fr/4/2/5/4/6/2/6/1",
+            "last_cnx": "2015-02-13 18:36:12",
+            "last_cnx_label": "en ligne",
+            "style": "0",
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 20,
+                    "label": "yeuxverts"
+                },
+                {
+                    "id": 55,
+                    "label": "coquine"
+                },
+                {
+                    "id": 56,
+                    "label": "taquine"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 11722248,
+            "pseudo": "Neverland",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/11722248",
+            "age": 28,
+            "city": "Nantes",
+            "cover": "http://s8.adopteunmec.com/fr/8/4/2/2/2/7/1/10",
+            "last_cnx": "2015-02-13 18:30:22",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "4"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 18,
+                    "label": "brune"
+                },
+                {
+                    "id": 127,
+                    "label": "voyages"
+                },
+                {
+                    "id": 798,
+                    "label": "radionova"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 110765742,
+            "pseudo": "Manou B",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/110765742",
+            "age": 60,
+            "city": "Nantes",
+            "cover": "http://s2.adopteunmec.com/fr/2/4/7/5/6/7/0/1/1",
+            "last_cnx": "2015-02-13 18:28:59",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "4",
+                "14"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 127,
+                    "label": "voyages"
+                },
+                {
+                    "id": 56,
+                    "label": "taquine"
+                },
+                {
+                    "id": 25,
+                    "label": "fumeuse"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 110990711,
+            "pseudo": "Beauty Addic",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/110990711",
+            "age": 21,
+            "city": "Nantes",
+            "cover": "http://s1.adopteunmec.com/fr/1/1/7/0/9/9/0/1/2",
+            "last_cnx": "2015-02-13 18:29:56",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "2",
+                "4",
+                "14"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 7,
+                    "label": "svelte"
+                },
+                {
+                    "id": 228,
+                    "label": "ski"
+                },
+                {
+                    "id": 24,
+                    "label": "nonfumeuse"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 18743156,
+            "pseudo": "Ayasha",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/18743156",
+            "age": 25,
+            "city": "Nantes",
+            "cover": "http://s6.adopteunmec.com/fr/6/5/1/3/4/7/8/21",
+            "last_cnx": "2015-02-13 18:27:25",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "3",
+                "5",
+                "11",
+                "12",
+                "29"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 9,
+                    "label": "cheveuxlongs"
+                },
+                {
+                    "id": 24,
+                    "label": "nonfumeuse"
+                },
+                {
+                    "id": 77,
+                    "label": "neogrunge"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 18557819,
+            "pseudo": "Xzoliie",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/18557819",
+            "age": 27,
+            "city": "Nantes",
+            "cover": "http://s9.adopteunmec.com/fr/9/1/8/7/5/5/8/23",
+            "last_cnx": "2015-02-13 18:28:26",
+            "last_cnx_label": "en ligne",
+            "style": "0",
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 39,
+                    "label": "lunettes"
+                },
+                {
+                    "id": 55,
+                    "label": "coquine"
+                },
+                {
+                    "id": 40,
+                    "label": "piercing"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 127917,
+            "pseudo": "Diplax",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/127917",
+            "age": 27,
+            "city": "Nantes",
+            "cover": "http://s7.adopteunmec.com/fr/7/1/9/7/2/19",
+            "last_cnx": "2015-02-13 18:28:27",
+            "last_cnx_label": "en ligne",
+            "style": "0",
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 7,
+                    "label": "svelte"
+                },
+                {
+                    "id": 57,
+                    "label": "sensible"
+                },
+                {
+                    "id": 18,
+                    "label": "brune"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 14824851,
+            "pseudo": "Ganou",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/14824851",
+            "age": 30,
+            "city": "Nantes",
+            "cover": "http://s1.adopteunmec.com/fr/1/5/8/4/2/8/4/29",
+            "last_cnx": "2015-02-13 18:35:44",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "2",
+                "4",
+                "5",
+                "14"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 8,
+                    "label": "pulpeuse"
+                },
+                {
+                    "id": 71,
+                    "label": "chic"
+                },
+                {
+                    "id": 952,
+                    "label": "raggadancehall"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 110743864,
+            "pseudo": "Fidounia",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/110743864",
+            "age": 19,
+            "city": "Nantes",
+            "cover": "http://s4.adopteunmec.com/fr/4/6/8/3/4/7/0/1/34",
+            "last_cnx": "2015-02-13 18:27:36",
+            "last_cnx_label": "en ligne",
+            "style": "0",
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 18,
+                    "label": "brune"
+                },
+                {
+                    "id": 24,
+                    "label": "nonfumeuse"
+                },
+                {
+                    "id": 1142,
+                    "label": "apple"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 110462243,
+            "pseudo": "Pom",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/110462243",
+            "age": 22,
+            "city": "Nantes",
+            "cover": "http://s3.adopteunmec.com/fr/3/4/2/2/6/4/0/1/12",
+            "last_cnx": "2015-02-13 18:35:54",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "4",
+                "6",
+                "7",
+                "9",
+                "12"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 8,
+                    "label": "pulpeuse"
+                },
+                {
+                    "id": 26,
+                    "label": "nicopatch"
+                },
+                {
+                    "id": 84,
+                    "label": "hippiechic"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 110941825,
+            "pseudo": "Breizhblu",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/110941825",
+            "age": 51,
+            "city": "Nantes",
+            "cover": "http://s5.adopteunmec.com/fr/5/2/8/1/4/9/0/1/1",
+            "last_cnx": "2015-02-13 18:30:05",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "13"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 8,
+                    "label": "pulpeuse"
+                },
+                {
+                    "id": 24,
+                    "label": "nonfumeuse"
+                },
+                {
+                    "id": 70,
+                    "label": "bcbg"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 111012783,
+            "pseudo": "Aquamarine Se",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/111012783",
+            "age": 18,
+            "city": "Nantes",
+            "cover": "http://s3.adopteunmec.com/fr/3/8/7/2/1/0/1/1/2",
+            "last_cnx": "2015-02-13 18:29:04",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "6",
+                "12",
+                "20",
+                "32",
+                "34"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 8,
+                    "label": "pulpeuse"
+                },
+                {
+                    "id": 93,
+                    "label": "hippie"
+                },
+                {
+                    "id": 1194,
+                    "label": "bohème"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 15682943,
+            "pseudo": "Anna",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/15682943",
+            "age": 19,
+            "city": "Nantes",
+            "cover": "http://s3.adopteunmec.com/fr/3/4/9/2/8/6/5/49",
+            "last_cnx": "2015-02-13 18:35:08",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "4",
+                "35"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 18,
+                    "label": "brune"
+                },
+                {
+                    "id": 120,
+                    "label": "etudiante"
+                },
+                {
+                    "id": 28,
+                    "label": "vegan"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 110158426,
+            "pseudo": "Mimi",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/110158426",
+            "age": 31,
+            "city": "Nantes",
+            "cover": "http://s6.adopteunmec.com/fr/6/2/4/8/5/1/0/1/1",
+            "last_cnx": "2015-02-13 18:21:27",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "2",
+                "4",
+                "14"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 7,
+                    "label": "svelte"
+                },
+                {
+                    "id": 71,
+                    "label": "chic"
+                },
+                {
+                    "id": 1142,
+                    "label": "apple"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 110006998,
+            "pseudo": "Amethyste",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/110006998",
+            "age": 25,
+            "city": "Nantes",
+            "cover": "http://s8.adopteunmec.com/fr/8/9/9/6/0/0/0/1/5",
+            "last_cnx": "2015-02-13 18:28:11",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "3",
+                "4",
+                "8",
+                "14",
+                "35"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 9,
+                    "label": "cheveuxlongs"
+                },
+                {
+                    "id": 130,
+                    "label": "reggae"
+                },
+                {
+                    "id": 889,
+                    "label": "dessinanime"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 110990152,
+            "pseudo": "Ab",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/110990152",
+            "age": 24,
+            "city": "Nantes",
+            "cover": "http://s2.adopteunmec.com/fr/2/5/1/0/9/9/0/1/2",
+            "last_cnx": "2015-02-13 18:29:41",
+            "last_cnx_label": "en ligne",
+            "style": "0",
+            "in_contact": false,
+            "hashtags": [],
+            "highlighted_values": []
+        },
+        {
+            "id": 110306141,
+            "pseudo": "Tine",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/110306141",
+            "age": 44,
+            "city": "Nantes",
+            "cover": "http://s1.adopteunmec.com/fr/1/4/1/6/0/3/0/1/1",
+            "last_cnx": "2015-02-13 18:28:10",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "3",
+                "13",
+                "14"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 7,
+                    "label": "svelte"
+                },
+                {
+                    "id": 70,
+                    "label": "bcbg"
+                },
+                {
+                    "id": 56,
+                    "label": "taquine"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 19362856,
+            "pseudo": "Nat",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/19362856",
+            "age": 40,
+            "city": "Nantes",
+            "cover": "http://s6.adopteunmec.com/fr/6/5/8/2/6/3/9/13",
+            "last_cnx": "2015-02-13 18:28:29",
+            "last_cnx_label": "en ligne",
+            "style": "0",
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 18,
+                    "label": "brune"
+                },
+                {
+                    "id": 104,
+                    "label": "bonbon"
+                },
+                {
+                    "id": 19,
+                    "label": "yeuxbleus"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 12207358,
+            "pseudo": "Amandee",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/12207358",
+            "age": 24,
+            "city": "Nantes",
+            "cover": "http://s8.adopteunmec.com/fr/8/5/3/7/0/2/2/1",
+            "last_cnx": "2015-02-13 18:36:38",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "4",
+                "14"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 39,
+                    "label": "lunettes"
+                },
+                {
+                    "id": 1143,
+                    "label": "globetrotter"
+                },
+                {
+                    "id": 9,
+                    "label": "cheveuxlongs"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 15314237,
+            "pseudo": "Fée Clochett",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/15314237",
+            "age": 41,
+            "city": "Nantes",
+            "cover": "http://s7.adopteunmec.com/fr/7/3/2/4/1/3/5/2",
+            "last_cnx": "2015-02-13 18:29:20",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "13"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 18,
+                    "label": "brune"
+                },
+                {
+                    "id": 70,
+                    "label": "bcbg"
+                },
+                {
+                    "id": 385,
+                    "label": "lanadelrey"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 110922703,
+            "pseudo": "Nosate",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/110922703",
+            "age": 35,
+            "city": "Nantes",
+            "cover": "http://s3.adopteunmec.com/fr/3/0/7/2/2/9/0/1/1",
+            "last_cnx": "2015-02-13 18:29:54",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "4"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 17,
+                    "label": "blonde"
+                },
+                {
+                    "id": 1413,
+                    "label": "tatouée"
+                },
+                {
+                    "id": 20,
+                    "label": "yeuxverts"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 12554777,
+            "pseudo": "Mllelo",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/12554777",
+            "age": 27,
+            "city": "Nantes",
+            "cover": "http://s7.adopteunmec.com/fr/7/7/7/4/5/5/2/20",
+            "last_cnx": "2015-02-13 18:29:23",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "13"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 17,
+                    "label": "blonde"
+                },
+                {
+                    "id": 769,
+                    "label": "assistantecommerciale"
+                },
+                {
+                    "id": 70,
+                    "label": "bcbg"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 12368335,
+            "pseudo": "Melli",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/12368335",
+            "age": 33,
+            "city": "Nantes",
+            "cover": "http://s5.adopteunmec.com/fr/5/3/3/8/6/3/2/13",
+            "last_cnx": "2015-02-13 18:29:15",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "4"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 8,
+                    "label": "pulpeuse"
+                },
+                {
+                    "id": 245,
+                    "label": "bricolage"
+                },
+                {
+                    "id": 271,
+                    "label": "redhotchilipeppers"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 110738898,
+            "pseudo": "Tilly",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/110738898",
+            "age": 31,
+            "city": "Nantes",
+            "cover": "http://s8.adopteunmec.com/fr/8/9/8/8/3/7/0/1/10",
+            "last_cnx": "2015-02-13 18:36:26",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "4",
+                "5",
+                "6",
+                "14",
+                "31"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 8,
+                    "label": "pulpeuse"
+                },
+                {
+                    "id": 29,
+                    "label": "bio"
+                },
+                {
+                    "id": 92,
+                    "label": "geekette"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 11684734,
+            "pseudo": "C",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/11684734",
+            "age": 25,
+            "city": "Nantes",
+            "cover": "http://s4.adopteunmec.com/fr/4/3/7/4/8/6/1/11",
+            "last_cnx": "2015-02-13 18:35:42",
+            "last_cnx_label": "en ligne",
+            "style": "0",
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 18,
+                    "label": "brune"
+                },
+                {
+                    "id": 1143,
+                    "label": "globetrotter"
+                },
+                {
+                    "id": 19,
+                    "label": "yeuxbleus"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 18849482,
+            "pseudo": "Sweetcandy",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/18849482",
+            "age": 22,
+            "city": "Nantes",
+            "cover": "http://s2.adopteunmec.com/fr/2/8/4/9/4/8/8/27",
+            "last_cnx": "2015-02-13 18:28:18",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "2",
+                "3",
+                "4",
+                "14"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 8,
+                    "label": "pulpeuse"
+                },
+                {
+                    "id": 120,
+                    "label": "etudiante"
+                },
+                {
+                    "id": 71,
+                    "label": "chic"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 17593175,
+            "pseudo": "Delphine",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/17593175",
+            "age": 22,
+            "city": "Nantes",
+            "cover": "http://s5.adopteunmec.com/fr/5/7/1/3/9/5/7/18",
+            "last_cnx": "2015-02-13 18:28:01",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "2",
+                "4",
+                "13"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 17,
+                    "label": "blonde"
+                },
+                {
+                    "id": 70,
+                    "label": "bcbg"
+                },
+                {
+                    "id": 1034,
+                    "label": "afrojack"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 110128211,
+            "pseudo": "Barba Vava",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/110128211",
+            "age": 39,
+            "city": "Nantes",
+            "cover": "http://s1.adopteunmec.com/fr/1/1/2/8/2/1/0/1/1",
+            "last_cnx": "2015-02-13 18:36:32",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "12"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 7,
+                    "label": "svelte"
+                },
+                {
+                    "id": 84,
+                    "label": "hippiechic"
+                },
+                {
+                    "id": 55,
+                    "label": "coquine"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 15808714,
+            "pseudo": "Axela",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/15808714",
+            "age": 36,
+            "city": "Nantes",
+            "cover": "http://s4.adopteunmec.com/fr/4/1/7/8/0/8/5/1",
+            "last_cnx": "2015-02-13 18:29:31",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "3",
+                "4",
+                "6",
+                "12",
+                "22"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 17,
+                    "label": "blonde"
+                },
+                {
+                    "id": 89,
+                    "label": "glamrock"
+                },
+                {
+                    "id": 54,
+                    "label": "garçonne"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 14668419,
+            "pseudo": "Josepha",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/14668419",
+            "age": 35,
+            "city": "Nantes",
+            "cover": "http://s9.adopteunmec.com/fr/9/1/4/8/6/6/4/7",
+            "last_cnx": "2015-02-13 18:34:47",
+            "last_cnx_label": "en ligne",
+            "style": "0",
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 19,
+                    "label": "yeuxbleus"
+                },
+                {
+                    "id": 463,
+                    "label": "expo"
+                },
+                {
+                    "id": 804,
+                    "label": "voltaire"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 12634546,
+            "pseudo": "Laconnasse",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/12634546",
+            "age": 28,
+            "city": "Nantes",
+            "cover": "http://s6.adopteunmec.com/fr/6/4/5/4/3/6/2/40",
+            "last_cnx": "2015-02-13 18:28:02",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "1",
+                "2",
+                "4"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 7,
+                    "label": "svelte"
+                },
+                {
+                    "id": 71,
+                    "label": "chic"
+                },
+                {
+                    "id": 242,
+                    "label": "musso"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 110220512,
+            "pseudo": "Blue",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/110220512",
+            "age": 35,
+            "city": "Nantes",
+            "cover": "http://s2.adopteunmec.com/fr/2/1/5/0/2/2/0/1/20",
+            "last_cnx": "2015-02-13 18:27:38",
+            "last_cnx_label": "en ligne",
+            "style": "0",
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 9,
+                    "label": "cheveuxlongs"
+                },
+                {
+                    "id": 1044,
+                    "label": "disclosure"
+                },
+                {
+                    "id": 423,
+                    "label": "camus"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 16408259,
+            "pseudo": "Pourquoipas",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/16408259",
+            "age": 34,
+            "city": "Nantes",
+            "cover": "http://s9.adopteunmec.com/fr/9/5/2/8/0/4/6/31",
+            "last_cnx": "2015-02-13 18:28:35",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "2"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 18,
+                    "label": "brune"
+                },
+                {
+                    "id": 71,
+                    "label": "chic"
+                },
+                {
+                    "id": 55,
+                    "label": "coquine"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 110991684,
+            "pseudo": "Laurine",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/110991684",
+            "age": 20,
+            "city": "Nantes",
+            "cover": "http://s4.adopteunmec.com/fr/4/8/6/1/9/9/0/1/1",
+            "last_cnx": "2015-02-13 18:27:56",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "14"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 17,
+                    "label": "blonde"
+                },
+                {
+                    "id": 874,
+                    "label": "secretairemedicale"
+                },
+                {
+                    "id": 25,
+                    "label": "fumeuse"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 110966066,
+            "pseudo": "Carla",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/110966066",
+            "age": 35,
+            "city": "Nantes",
+            "cover": "http://s6.adopteunmec.com/fr/6/6/0/6/6/9/0/1/1",
+            "last_cnx": "2015-02-13 18:27:31",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "2",
+                "4",
+                "13",
+                "14"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 17,
+                    "label": "blonde"
+                },
+                {
+                    "id": 70,
+                    "label": "bcbg"
+                },
+                {
+                    "id": 156,
+                    "label": "salsa"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 19444841,
+            "pseudo": "Vanessa",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/19444841",
+            "age": 27,
+            "city": "Nantes",
+            "cover": "http://s1.adopteunmec.com/fr/1/4/8/4/4/4/9/6",
+            "last_cnx": "2015-02-13 18:33:27",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "2",
+                "6",
+                "14"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 8,
+                    "label": "pulpeuse"
+                },
+                {
+                    "id": 71,
+                    "label": "chic"
+                },
+                {
+                    "id": 1194,
+                    "label": "bohème"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 110986671,
+            "pseudo": "Lillybee",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/110986671",
+            "age": 19,
+            "city": "Nantes",
+            "cover": "http://s1.adopteunmec.com/fr/1/7/6/6/8/9/0/1/1",
+            "last_cnx": "2015-02-13 18:24:26",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "14"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 40,
+                    "label": "piercing"
+                },
+                {
+                    "id": 445,
+                    "label": "agathachristie"
+                },
+                {
+                    "id": 515,
+                    "label": "doctorwho"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 111012495,
+            "pseudo": "Panda",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/111012495",
+            "age": 18,
+            "city": "Nantes",
+            "cover": "http://s5.adopteunmec.com/fr/5/9/4/2/1/0/1/1/1",
+            "last_cnx": "2015-02-13 18:31:03",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "4"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 25,
+                    "label": "fumeuse"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 110539488,
+            "pseudo": "Ceilime",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/110539488",
+            "age": 34,
+            "city": "Nantes",
+            "cover": "http://s8.adopteunmec.com/fr/8/8/4/9/3/5/0/1/1",
+            "last_cnx": "2015-02-13 18:24:28",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "4",
+                "14",
+                "35"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 18,
+                    "label": "brune"
+                },
+                {
+                    "id": 19,
+                    "label": "yeuxbleus"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 18250884,
+            "pseudo": "Elisabvn",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/18250884",
+            "age": 18,
+            "city": "Nantes",
+            "cover": "http://s4.adopteunmec.com/fr/4/8/8/0/5/2/8/45",
+            "last_cnx": "2015-02-13 18:24:59",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "4",
+                "9",
+                "10",
+                "20",
+                "35"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 39,
+                    "label": "lunettes"
+                },
+                {
+                    "id": 87,
+                    "label": "retrovintage"
+                },
+                {
+                    "id": 1020,
+                    "label": "lafilledepapier"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 110134181,
+            "pseudo": "Mimi",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/110134181",
+            "age": 28,
+            "city": "Nantes",
+            "cover": "http://s1.adopteunmec.com/fr/1/8/1/4/3/1/0/1/1",
+            "last_cnx": "2015-02-13 18:23:10",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "14"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 17,
+                    "label": "blonde"
+                },
+                {
+                    "id": 1142,
+                    "label": "apple"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 15041272,
+            "pseudo": "Daytona",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/15041272",
+            "age": 25,
+            "city": "Nantes",
+            "cover": "http://s2.adopteunmec.com/fr/2/7/2/1/4/0/5/31",
+            "last_cnx": "2015-02-13 18:32:12",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "2",
+                "3"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 18,
+                    "label": "brune"
+                },
+                {
+                    "id": 24,
+                    "label": "nonfumeuse"
+                },
+                {
+                    "id": 71,
+                    "label": "chic"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 15467861,
+            "pseudo": "Nade",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/15467861",
+            "age": 38,
+            "city": "Nantes",
+            "cover": "http://s1.adopteunmec.com/fr/1/6/8/7/6/4/5/13",
+            "last_cnx": "2015-02-13 18:31:34",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "3",
+                "4",
+                "6",
+                "12",
+                "20"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 7,
+                    "label": "svelte"
+                },
+                {
+                    "id": 191,
+                    "label": "concerts"
+                },
+                {
+                    "id": 87,
+                    "label": "retrovintage"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 18110081,
+            "pseudo": "Philou",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/18110081",
+            "age": 20,
+            "city": "Nantes",
+            "cover": "http://s1.adopteunmec.com/fr/1/8/0/0/1/1/8/37",
+            "last_cnx": "2015-02-13 18:34:00",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "2",
+                "3",
+                "35"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 18,
+                    "label": "brune"
+                },
+                {
+                    "id": 885,
+                    "label": "karting"
+                },
+                {
+                    "id": 26,
+                    "label": "nicopatch"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 110946460,
+            "pseudo": "Ju",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/110946460",
+            "age": 32,
+            "city": "Nantes",
+            "cover": "http://s0.adopteunmec.com/fr/0/6/4/6/4/9/0/1/3",
+            "last_cnx": "2015-02-13 18:23:36",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "5"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 7,
+                    "label": "svelte"
+                },
+                {
+                    "id": 1142,
+                    "label": "apple"
+                },
+                {
+                    "id": 18,
+                    "label": "brune"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 110614197,
+            "pseudo": "Gigifit",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/110614197",
+            "age": 43,
+            "city": "Nantes",
+            "cover": "http://s7.adopteunmec.com/fr/7/9/1/4/1/6/0/1/14",
+            "last_cnx": "2015-02-13 18:33:22",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "2",
+                "4"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 9,
+                    "label": "cheveuxlongs"
+                },
+                {
+                    "id": 71,
+                    "label": "chic"
+                },
+                {
+                    "id": 55,
+                    "label": "coquine"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 110887125,
+            "pseudo": "Cyclone",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/110887125",
+            "age": 35,
+            "city": "Nantes",
+            "cover": "http://s5.adopteunmec.com/fr/5/2/1/7/8/8/0/1/3",
+            "last_cnx": "2015-02-13 18:35:25",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "2",
+                "3",
+                "4",
+                "14",
+                "22"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 17,
+                    "label": "blonde"
+                },
+                {
+                    "id": 89,
+                    "label": "glamrock"
+                },
+                {
+                    "id": 503,
+                    "label": "otisredding"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 110183201,
+            "pseudo": "Aude",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/110183201",
+            "age": 30,
+            "city": "Nantes",
+            "cover": "http://s1.adopteunmec.com/fr/1/0/2/3/8/1/0/1/1",
+            "last_cnx": "2015-02-13 18:31:31",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "4",
+                "6",
+                "12",
+                "20"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 19,
+                    "label": "yeuxbleus"
+                },
+                {
+                    "id": 87,
+                    "label": "retrovintage"
+                },
+                {
+                    "id": 887,
+                    "label": "levoyagedechihiro"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 19354253,
+            "pseudo": "Sev",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/19354253",
+            "age": 33,
+            "city": "Nantes",
+            "cover": "http://s3.adopteunmec.com/fr/3/5/2/4/5/3/9/3",
+            "last_cnx": "2015-02-13 18:32:09",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "4"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 7,
+                    "label": "svelte"
+                },
+                {
+                    "id": 127,
+                    "label": "voyages"
+                },
+                {
+                    "id": 19,
+                    "label": "yeuxbleus"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 19714505,
+            "pseudo": "Tshatsha",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/19714505",
+            "age": 37,
+            "city": "Nantes",
+            "cover": "http://s5.adopteunmec.com/fr/5/0/5/4/1/7/9/4",
+            "last_cnx": "2015-02-13 18:31:32",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "4",
+                "5",
+                "18",
+                "20",
+                "21"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 19,
+                    "label": "yeuxbleus"
+                },
+                {
+                    "id": 463,
+                    "label": "expo"
+                },
+                {
+                    "id": 29,
+                    "label": "bio"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 110436554,
+            "pseudo": "Douce",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/110436554",
+            "age": 44,
+            "city": "Nantes",
+            "cover": "http://s4.adopteunmec.com/fr/4/5/5/6/3/4/0/1/11",
+            "last_cnx": "2015-02-13 18:23:17",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "4"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 9,
+                    "label": "cheveuxlongs"
+                },
+                {
+                    "id": 190,
+                    "label": "equitation"
+                },
+                {
+                    "id": 965,
+                    "label": "tairo"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 110485596,
+            "pseudo": "Coralie",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/110485596",
+            "age": 21,
+            "city": "Nantes",
+            "cover": "http://s6.adopteunmec.com/fr/6/9/5/5/8/4/0/1/2",
+            "last_cnx": "2015-02-13 18:26:23",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "3"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 1413,
+                    "label": "tatouée"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 13393410,
+            "pseudo": "Mel",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/13393410",
+            "age": 26,
+            "city": "Nantes",
+            "cover": "http://s0.adopteunmec.com/fr/0/1/4/3/9/3/3/14",
+            "last_cnx": "2015-02-13 18:23:34",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "4",
+                "14",
+                "22"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 18,
+                    "label": "brune"
+                },
+                {
+                    "id": 393,
+                    "label": "footing"
+                },
+                {
+                    "id": 27,
+                    "label": "pilierdebar"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 110977735,
+            "pseudo": "Bukows",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/110977735",
+            "age": 27,
+            "city": "Nantes",
+            "cover": "http://s5.adopteunmec.com/fr/5/3/7/7/7/9/0/1/2",
+            "last_cnx": "2015-02-13 18:24:53",
+            "last_cnx_label": "en ligne",
+            "style": "0",
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 9,
+                    "label": "cheveuxlongs"
+                },
+                {
+                    "id": 24,
+                    "label": "nonfumeuse"
+                },
+                {
+                    "id": 590,
+                    "label": "tyga"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 14170012,
+            "pseudo": "Twingoooo",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/14170012",
+            "age": 25,
+            "city": "Nantes",
+            "cover": "http://s2.adopteunmec.com/fr/2/1/0/0/7/1/4/225",
+            "last_cnx": "2015-02-13 18:20:50",
+            "last_cnx_label": "en ligne",
+            "style": "0",
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 1142,
+                    "label": "apple"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 19033497,
+            "pseudo": "Lexie",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/19033497",
+            "age": 24,
+            "city": "Nantes",
+            "cover": "http://s7.adopteunmec.com/fr/7/9/4/3/3/0/9/1",
+            "last_cnx": "2015-02-13 18:23:30",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "14"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 18,
+                    "label": "brune"
+                },
+                {
+                    "id": 120,
+                    "label": "etudiante"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 110488429,
+            "pseudo": "Dedette",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/110488429",
+            "age": 32,
+            "city": "Nantes",
+            "cover": "http://s9.adopteunmec.com/fr/9/2/4/8/8/4/0/1/7",
+            "last_cnx": "2015-02-13 18:32:12",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "4",
+                "12",
+                "20"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 40,
+                    "label": "piercing"
+                },
+                {
+                    "id": 245,
+                    "label": "bricolage"
+                },
+                {
+                    "id": 27,
+                    "label": "pilierdebar"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 12844920,
+            "pseudo": "Lady Nana",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/12844920",
+            "age": 48,
+            "city": "Nantes",
+            "cover": "http://s0.adopteunmec.com/fr/0/2/9/4/4/8/2/8",
+            "last_cnx": "2015-02-13 18:23:24",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "1"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 8,
+                    "label": "pulpeuse"
+                },
+                {
+                    "id": 10,
+                    "label": "cheveuxcourts"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 19907375,
+            "pseudo": "Valmar",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/19907375",
+            "age": 42,
+            "city": "Nantes",
+            "cover": "http://s5.adopteunmec.com/fr/5/7/3/7/0/9/9/1",
+            "last_cnx": "2015-02-13 18:24:26",
+            "last_cnx_label": "en ligne",
+            "style": "0",
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 18,
+                    "label": "brune"
+                },
+                {
+                    "id": 19,
+                    "label": "yeuxbleus"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 19155554,
+            "pseudo": "Charmante",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/19155554",
+            "age": 48,
+            "city": "Nantes",
+            "cover": "http://s4.adopteunmec.com/fr/4/5/5/5/5/1/9/1",
+            "last_cnx": "2015-02-13 18:22:58",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "2",
+                "4"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 2,
+                    "label": "rousse"
+                },
+                {
+                    "id": 71,
+                    "label": "chic"
+                },
+                {
+                    "id": 55,
+                    "label": "coquine"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 15017837,
+            "pseudo": "Vanessa",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/15017837",
+            "age": 35,
+            "city": "Nantes",
+            "cover": "http://s7.adopteunmec.com/fr/7/3/8/7/1/0/5/11",
+            "last_cnx": "2015-02-13 18:31:40",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "2",
+                "9",
+                "20",
+                "21"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 2,
+                    "label": "rousse"
+                },
+                {
+                    "id": 127,
+                    "label": "voyages"
+                },
+                {
+                    "id": 26,
+                    "label": "nicopatch"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 111005752,
+            "pseudo": "Jessica",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/111005752",
+            "age": 25,
+            "city": "Nantes",
+            "cover": "http://s2.adopteunmec.com/fr/2/5/7/5/0/0/1/1/1",
+            "last_cnx": "2015-02-13 18:24:35",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "4"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 18,
+                    "label": "brune"
+                },
+                {
+                    "id": 120,
+                    "label": "etudiante"
+                },
+                {
+                    "id": 283,
+                    "label": "basket"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 13059499,
+            "pseudo": "Nini",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/13059499",
+            "age": 31,
+            "city": "Nantes",
+            "cover": "http://s9.adopteunmec.com/fr/9/9/4/9/5/0/3/35",
+            "last_cnx": "2015-02-13 18:23:09",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "1",
+                "2",
+                "14"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 8,
+                    "label": "pulpeuse"
+                },
+                {
+                    "id": 71,
+                    "label": "chic"
+                },
+                {
+                    "id": 857,
+                    "label": "palmashow"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 110485437,
+            "pseudo": "Marylin",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/110485437",
+            "age": 22,
+            "city": "Nantes",
+            "cover": "http://s7.adopteunmec.com/fr/7/3/4/5/8/4/0/1/23",
+            "last_cnx": "2015-02-13 18:24:32",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "2",
+                "3",
+                "4"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 40,
+                    "label": "piercing"
+                },
+                {
+                    "id": 120,
+                    "label": "etudiante"
+                },
+                {
+                    "id": 190,
+                    "label": "equitation"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 110682399,
+            "pseudo": "Solene",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/110682399",
+            "age": 38,
+            "city": "Nantes",
+            "cover": "http://s9.adopteunmec.com/fr/9/9/3/2/8/6/0/1/1",
+            "last_cnx": "2015-02-13 18:34:31",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "2",
+                "4",
+                "5",
+                "14"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 18,
+                    "label": "brune"
+                },
+                {
+                    "id": 1032,
+                    "label": "kitesurf"
+                },
+                {
+                    "id": 71,
+                    "label": "chic"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 110996323,
+            "pseudo": "Edge",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/110996323",
+            "age": 34,
+            "city": "Nantes",
+            "cover": "http://s3.adopteunmec.com/fr/3/2/3/6/9/9/0/1/1",
+            "last_cnx": "2015-02-13 18:33:39",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "2",
+                "4",
+                "14"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 18,
+                    "label": "brune"
+                },
+                {
+                    "id": 71,
+                    "label": "chic"
+                },
+                {
+                    "id": 561,
+                    "label": "50nuancesdegrey"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 110633580,
+            "pseudo": "Missdjango",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/110633580",
+            "age": 30,
+            "city": "Nantes",
+            "cover": "http://s0.adopteunmec.com/fr/0/8/5/3/3/6/0/1/1",
+            "last_cnx": "2015-02-13 18:24:37",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "2",
+                "4",
+                "14"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 17,
+                    "label": "blonde"
+                },
+                {
+                    "id": 191,
+                    "label": "concerts"
+                },
+                {
+                    "id": 26,
+                    "label": "nicopatch"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 19368798,
+            "pseudo": "Angel Dfrn",
+            "online": false,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/19368798",
+            "age": 19,
+            "city": "Nantes",
+            "cover": "http://s8.adopteunmec.com/fr/8/9/7/8/6/3/9/15",
+            "last_cnx": "2015-02-13 16:10:12",
+            "last_cnx_label": "26 minutes",
+            "styles": [
+                "6",
+                "7",
+                "28",
+                "34",
+                "35"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 93,
+                    "label": "hippie"
+                },
+                {
+                    "id": 460,
+                    "label": "ntm"
+                },
+                {
+                    "id": 392,
+                    "label": "annagavalda"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 15046832,
+            "pseudo": "Vipera Aspis",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/15046832",
+            "age": 21,
+            "city": "Nantes",
+            "cover": "http://s2.adopteunmec.com/fr/2/3/8/6/4/0/5/106",
+            "last_cnx": "2015-02-13 18:06:36",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "4",
+                "5",
+                "7",
+                "27"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 7,
+                    "label": "svelte"
+                },
+                {
+                    "id": 120,
+                    "label": "etudiante"
+                },
+                {
+                    "id": 127,
+                    "label": "voyages"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 16809906,
+            "pseudo": "Mathilde",
+            "online": false,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/16809906",
+            "age": 20,
+            "city": "Nantes",
+            "cover": "http://s6.adopteunmec.com/fr/6/0/9/9/0/8/6/1",
+            "last_cnx": "2015-02-13 13:40:09",
+            "last_cnx_label": "2 heures",
+            "styles": [
+                "3",
+                "4",
+                "14",
+                "32"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 18,
+                    "label": "brune"
+                },
+                {
+                    "id": 120,
+                    "label": "etudiante"
+                },
+                {
+                    "id": 463,
+                    "label": "expo"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 19903618,
+            "pseudo": "Chabalalilou",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/19903618",
+            "age": 36,
+            "city": "Nantes",
+            "cover": "http://s8.adopteunmec.com/fr/8/1/6/3/0/9/9/16",
+            "last_cnx": "2015-02-13 17:03:24",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "12",
+                "20",
+                "21",
+                "35"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 18,
+                    "label": "brune"
+                },
+                {
+                    "id": 88,
+                    "label": "pinup"
+                },
+                {
+                    "id": 306,
+                    "label": "brassens"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 17030035,
+            "pseudo": "Alex",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/17030035",
+            "age": 23,
+            "city": "Nantes",
+            "cover": "http://s5.adopteunmec.com/fr/5/3/0/0/3/0/7/9",
+            "last_cnx": "2015-02-13 18:26:44",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "4"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 18,
+                    "label": "brune"
+                },
+                {
+                    "id": 120,
+                    "label": "etudiante"
+                },
+                {
+                    "id": 198,
+                    "label": "bigbangtheory"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 15658378,
+            "pseudo": "Doun",
+            "online": false,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/15658378",
+            "age": 21,
+            "city": "Nantes",
+            "cover": "http://s8.adopteunmec.com/fr/8/7/3/8/5/6/5/15",
+            "last_cnx": "2015-02-11 22:16:40",
+            "last_cnx_label": "1 jour",
+            "style": "0",
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 20,
+                    "label": "yeuxverts"
+                },
+                {
+                    "id": 120,
+                    "label": "etudiante"
+                },
+                {
+                    "id": 332,
+                    "label": "chineseman"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 19560887,
+            "pseudo": "Liline",
+            "online": false,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/19560887",
+            "age": 29,
+            "city": "Nantes",
+            "cover": "http://s7.adopteunmec.com/fr/7/8/8/0/6/5/9/6",
+            "last_cnx": "2015-02-13 14:51:05",
+            "last_cnx_label": "1 heure",
+            "styles": [
+                "13",
+                "14"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 7,
+                    "label": "svelte"
+                },
+                {
+                    "id": 70,
+                    "label": "bcbg"
+                },
+                {
+                    "id": 632,
+                    "label": "topchef"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 15742813,
+            "pseudo": "Jancasta",
+            "online": false,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/15742813",
+            "age": 32,
+            "city": "Nantes",
+            "cover": "http://s3.adopteunmec.com/fr/3/1/8/2/4/7/5/10",
+            "last_cnx": "2015-02-13 08:00:58",
+            "last_cnx_label": "8 heures",
+            "styles": [
+                "4"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 19,
+                    "label": "yeuxbleus"
+                },
+                {
+                    "id": 348,
+                    "label": "secretaire"
+                },
+                {
+                    "id": 702,
+                    "label": "coupedecale"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 18333406,
+            "pseudo": "Groovirg",
+            "online": false,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/18333406",
+            "age": 32,
+            "city": "Nantes",
+            "cover": "http://s6.adopteunmec.com/fr/6/0/4/3/3/3/8/1",
+            "last_cnx": "2015-02-12 22:48:39",
+            "last_cnx_label": "17 heures",
+            "styles": [
+                "2",
+                "4",
+                "14"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 7,
+                    "label": "svelte"
+                },
+                {
+                    "id": 71,
+                    "label": "chic"
+                },
+                {
+                    "id": 647,
+                    "label": "nas"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 15462652,
+            "pseudo": "Alice",
+            "online": false,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/15462652",
+            "age": 22,
+            "city": "Nantes",
+            "cover": "http://s2.adopteunmec.com/fr/2/5/6/2/6/4/5/40",
+            "last_cnx": "2015-02-13 01:35:46",
+            "last_cnx_label": "15 heures",
+            "styles": [
+                "4",
+                "14"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 18,
+                    "label": "brune"
+                },
+                {
+                    "id": 1143,
+                    "label": "globetrotter"
+                },
+                {
+                    "id": 39,
+                    "label": "lunettes"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 19052058,
+            "pseudo": "Ccyle",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/19052058",
+            "age": 25,
+            "city": "Nantes",
+            "cover": "http://s8.adopteunmec.com/fr/8/5/0/2/5/0/9/1",
+            "last_cnx": "2015-02-13 18:04:42",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "1",
+                "2",
+                "4",
+                "17",
+                "22"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 9,
+                    "label": "cheveuxlongs"
+                },
+                {
+                    "id": 89,
+                    "label": "glamrock"
+                },
+                {
+                    "id": 215,
+                    "label": "ragga"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 16926761,
+            "pseudo": "A Fanny",
+            "online": false,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/16926761",
+            "age": 31,
+            "city": "Nantes",
+            "cover": "http://s1.adopteunmec.com/fr/1/6/7/6/2/9/6/1",
+            "last_cnx": "2015-02-11 21:51:31",
+            "last_cnx_label": "1 jour",
+            "styles": [
+                "2",
+                "4",
+                "14"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 39,
+                    "label": "lunettes"
+                },
+                {
+                    "id": 71,
+                    "label": "chic"
+                },
+                {
+                    "id": 660,
+                    "label": "keryjames"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 17932361,
+            "pseudo": "Sarah",
+            "online": false,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/17932361",
+            "age": 22,
+            "city": "Nantes",
+            "cover": "http://s1.adopteunmec.com/fr/1/6/3/2/3/9/7/10",
+            "last_cnx": "2015-02-13 16:00:54",
+            "last_cnx_label": "35 minutes",
+            "styles": [
+                "4",
+                "35"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 18,
+                    "label": "brune"
+                },
+                {
+                    "id": 358,
+                    "label": "larueketanou"
+                },
+                {
+                    "id": 470,
+                    "label": "matchpoint"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 16476370,
+            "pseudo": "Mamzelle",
+            "online": false,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/16476370",
+            "age": 25,
+            "city": "Nantes",
+            "cover": "http://s0.adopteunmec.com/fr/0/7/3/6/7/4/6/7",
+            "last_cnx": "2015-02-13 11:01:59",
+            "last_cnx_label": "5 heures",
+            "style": "0",
+            "in_contact": false,
+            "hashtags": [],
+            "highlighted_values": []
+        },
+        {
+            "id": 16508248,
+            "pseudo": "June",
+            "online": false,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/16508248",
+            "age": 23,
+            "city": "Nantes",
+            "cover": "http://s8.adopteunmec.com/fr/8/4/2/8/0/5/6/22",
+            "last_cnx": "2015-02-12 00:30:36",
+            "last_cnx_label": "1 jour",
+            "styles": [
+                "4",
+                "5",
+                "27",
+                "31",
+                "35"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 39,
+                    "label": "lunettes"
+                },
+                {
+                    "id": 91,
+                    "label": "métalleuse"
+                },
+                {
+                    "id": 935,
+                    "label": "dieantwoord"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 14246947,
+            "pseudo": "Chacha",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/14246947",
+            "age": 27,
+            "city": "Nantes",
+            "cover": "http://s7.adopteunmec.com/fr/7/4/9/6/4/2/4/7",
+            "last_cnx": "2015-02-13 18:26:13",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "2"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 9,
+                    "label": "cheveuxlongs"
+                },
+                {
+                    "id": 127,
+                    "label": "voyages"
+                },
+                {
+                    "id": 71,
+                    "label": "chic"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 14172126,
+            "pseudo": "Nanie",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/14172126",
+            "age": 32,
+            "city": "Nantes",
+            "cover": "http://s6.adopteunmec.com/fr/6/2/1/2/7/1/4/21",
+            "last_cnx": "2015-02-13 18:35:29",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "2",
+                "8",
+                "13",
+                "14",
+                "35"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 9,
+                    "label": "cheveuxlongs"
+                },
+                {
+                    "id": 70,
+                    "label": "bcbg"
+                },
+                {
+                    "id": 930,
+                    "label": "vanessaparadis"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 19262089,
+            "pseudo": "Ana",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/19262089",
+            "age": 24,
+            "city": "Nantes",
+            "cover": "http://s9.adopteunmec.com/fr/9/8/0/2/6/2/9/37",
+            "last_cnx": "2015-02-13 18:09:14",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "13",
+                "21"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 8,
+                    "label": "pulpeuse"
+                },
+                {
+                    "id": 88,
+                    "label": "pinup"
+                },
+                {
+                    "id": 302,
+                    "label": "bachata"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 110717750,
+            "pseudo": "Pamaly",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/110717750",
+            "age": 20,
+            "city": "Nantes",
+            "cover": "http://s0.adopteunmec.com/fr/0/5/7/7/1/7/0/1/2",
+            "last_cnx": "2015-02-13 17:32:38",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "2",
+                "4",
+                "14"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 17,
+                    "label": "blonde"
+                },
+                {
+                    "id": 120,
+                    "label": "etudiante"
+                },
+                {
+                    "id": 71,
+                    "label": "chic"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 13827634,
+            "pseudo": "Cam Stinson",
+            "online": false,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/13827634",
+            "age": 23,
+            "city": "Nantes",
+            "cover": "http://s4.adopteunmec.com/fr/4/3/6/7/2/8/3/14",
+            "last_cnx": "2015-02-13 13:43:03",
+            "last_cnx_label": "2 heures",
+            "styles": [
+                "5",
+                "14"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 18,
+                    "label": "brune"
+                },
+                {
+                    "id": 537,
+                    "label": "etudianteinfirmiere"
+                },
+                {
+                    "id": 393,
+                    "label": "footing"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 13791309,
+            "pseudo": "Maëlane",
+            "online": false,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/13791309",
+            "age": 31,
+            "city": "Nantes",
+            "cover": "http://s9.adopteunmec.com/fr/9/0/3/1/9/7/3/16",
+            "last_cnx": "2015-02-11 23:58:01",
+            "last_cnx_label": "1 jour",
+            "style": "0",
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 40,
+                    "label": "piercing"
+                },
+                {
+                    "id": 24,
+                    "label": "nonfumeuse"
+                },
+                {
+                    "id": 149,
+                    "label": "hiphop"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 15321303,
+            "pseudo": "Margaux",
+            "online": false,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/15321303",
+            "age": 23,
+            "city": "Nantes",
+            "cover": "http://s3.adopteunmec.com/fr/3/0/3/1/2/3/5/7",
+            "last_cnx": "2015-02-11 22:16:46",
+            "last_cnx_label": "1 jour",
+            "styles": [
+                "2",
+                "4",
+                "5"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 18,
+                    "label": "brune"
+                },
+                {
+                    "id": 191,
+                    "label": "concerts"
+                },
+                {
+                    "id": 71,
+                    "label": "chic"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 19071307,
+            "pseudo": "Pauline",
+            "online": false,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/19071307",
+            "age": 25,
+            "city": "Nantes",
+            "cover": "http://s7.adopteunmec.com/fr/7/0/3/1/7/0/9/1",
+            "last_cnx": "2015-02-13 14:40:19",
+            "last_cnx_label": "1 heure",
+            "styles": [
+                "4",
+                "14"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 127,
+                    "label": "voyages"
+                },
+                {
+                    "id": 24,
+                    "label": "nonfumeuse"
+                },
+                {
+                    "id": 585,
+                    "label": "woodkid"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 17304959,
+            "pseudo": "Sù Frequita",
+            "online": false,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/17304959",
+            "age": 23,
+            "city": "Nantes",
+            "cover": "http://s9.adopteunmec.com/fr/9/5/9/4/0/3/7/10",
+            "last_cnx": "2015-02-13 01:56:22",
+            "last_cnx_label": "14 heures",
+            "styles": [
+                "2"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 8,
+                    "label": "pulpeuse"
+                },
+                {
+                    "id": 71,
+                    "label": "chic"
+                },
+                {
+                    "id": 302,
+                    "label": "bachata"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 14831205,
+            "pseudo": "Noelie",
+            "online": false,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/14831205",
+            "age": 19,
+            "city": "Nantes",
+            "cover": "http://s5.adopteunmec.com/fr/5/0/2/1/3/8/4/25",
+            "last_cnx": "2015-02-12 18:51:28",
+            "last_cnx_label": "21 heures",
+            "styles": [
+                "2",
+                "4",
+                "14"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 40,
+                    "label": "piercing"
+                },
+                {
+                    "id": 71,
+                    "label": "chic"
+                },
+                {
+                    "id": 649,
+                    "label": "keen"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 11878049,
+            "pseudo": "Titeprincese",
+            "online": false,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/11878049",
+            "age": 25,
+            "city": "Nantes",
+            "cover": "http://s9.adopteunmec.com/fr/9/4/0/8/7/8/1/11",
+            "last_cnx": "2015-02-13 09:12:07",
+            "last_cnx_label": "7 heures",
+            "styles": [
+                "2"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 24,
+                    "label": "nonfumeuse"
+                },
+                {
+                    "id": 71,
+                    "label": "chic"
+                },
+                {
+                    "id": 390,
+                    "label": "arnacoeur"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 15290128,
+            "pseudo": "Behappy",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/15290128",
+            "age": 41,
+            "city": "Nantes",
+            "cover": "http://s8.adopteunmec.com/fr/8/2/1/0/9/2/5/21",
+            "last_cnx": "2015-02-13 18:13:05",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "2",
+                "3",
+                "4",
+                "12",
+                "13"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 17,
+                    "label": "blonde"
+                },
+                {
+                    "id": 84,
+                    "label": "hippiechic"
+                },
+                {
+                    "id": 408,
+                    "label": "goldman"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 18751740,
+            "pseudo": "Anna",
+            "online": false,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/18751740",
+            "age": 38,
+            "city": "Nantes",
+            "cover": "http://s0.adopteunmec.com/fr/0/4/7/1/5/7/8/11",
+            "last_cnx": "2015-02-13 12:32:31",
+            "last_cnx_label": "4 heures",
+            "styles": [
+                "4"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 18,
+                    "label": "brune"
+                },
+                {
+                    "id": 129,
+                    "label": "jazz"
+                },
+                {
+                    "id": 119,
+                    "label": "dexter"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 13206108,
+            "pseudo": "Mzlle  'alex",
+            "online": false,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/13206108",
+            "age": 22,
+            "city": "Nantes",
+            "cover": "http://s8.adopteunmec.com/fr/8/0/1/6/0/2/3/15",
+            "last_cnx": "2015-02-13 14:12:26",
+            "last_cnx_label": "2 heures",
+            "styles": [
+                "2",
+                "4",
+                "5",
+                "13",
+                "14"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 9,
+                    "label": "cheveuxlongs"
+                },
+                {
+                    "id": 70,
+                    "label": "bcbg"
+                },
+                {
+                    "id": 561,
+                    "label": "50nuancesdegrey"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 18844463,
+            "pseudo": "Julie",
+            "online": false,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/18844463",
+            "age": 29,
+            "city": "Nantes",
+            "cover": "http://s3.adopteunmec.com/fr/3/6/4/4/4/8/8/3",
+            "last_cnx": "2015-02-13 08:32:17",
+            "last_cnx_label": "8 heures",
+            "styles": [
+                "4"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 18,
+                    "label": "brune"
+                },
+                {
+                    "id": 39,
+                    "label": "lunettes"
+                },
+                {
+                    "id": 10,
+                    "label": "cheveuxcourts"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 15836030,
+            "pseudo": "Aurora",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/15836030",
+            "age": 24,
+            "city": "Nantes",
+            "cover": "http://s0.adopteunmec.com/fr/0/3/0/6/3/8/5/71",
+            "last_cnx": "2015-02-13 18:30:19",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "14"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 20,
+                    "label": "yeuxverts"
+                },
+                {
+                    "id": 385,
+                    "label": "lanadelrey"
+                },
+                {
+                    "id": 635,
+                    "label": "rememberme"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 13565969,
+            "pseudo": "Paulinejoe",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/13565969",
+            "age": 25,
+            "city": "Nantes",
+            "cover": "http://s9.adopteunmec.com/fr/9/6/9/5/6/5/3/13",
+            "last_cnx": "2015-02-13 18:01:37",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "5",
+                "22"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 8,
+                    "label": "pulpeuse"
+                },
+                {
+                    "id": 518,
+                    "label": "jardinage"
+                },
+                {
+                    "id": 89,
+                    "label": "glamrock"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 17664292,
+            "pseudo": "Sarah",
+            "online": false,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/17664292",
+            "age": 19,
+            "city": "Nantes",
+            "cover": "http://s2.adopteunmec.com/fr/2/9/2/4/6/6/7/10",
+            "last_cnx": "2015-02-12 20:02:59",
+            "last_cnx_label": "20 heures",
+            "styles": [
+                "2"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 9,
+                    "label": "cheveuxlongs"
+                },
+                {
+                    "id": 71,
+                    "label": "chic"
+                },
+                {
+                    "id": 527,
+                    "label": "thekooks"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 110198715,
+            "pseudo": "Valerie",
+            "online": false,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/110198715",
+            "age": 37,
+            "city": "Nantes",
+            "cover": "http://s5.adopteunmec.com/fr/5/1/7/8/9/1/0/1/1",
+            "last_cnx": "2015-02-12 22:33:36",
+            "last_cnx_label": "18 heures",
+            "styles": [
+                "2",
+                "4",
+                "14"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 18,
+                    "label": "brune"
+                },
+                {
+                    "id": 127,
+                    "label": "voyages"
+                },
+                {
+                    "id": 24,
+                    "label": "nonfumeuse"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 14377649,
+            "pseudo": "M",
+            "online": false,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/14377649",
+            "age": 23,
+            "city": "Nantes",
+            "cover": "http://s9.adopteunmec.com/fr/9/4/6/7/7/3/4/3",
+            "last_cnx": "2015-02-13 15:18:05",
+            "last_cnx_label": "1 heure",
+            "styles": [
+                "2",
+                "4"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 17,
+                    "label": "blonde"
+                },
+                {
+                    "id": 393,
+                    "label": "footing"
+                },
+                {
+                    "id": 71,
+                    "label": "chic"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 110307600,
+            "pseudo": "Marie",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/110307600",
+            "age": 21,
+            "city": "Nantes",
+            "cover": "http://s0.adopteunmec.com/fr/0/0/6/7/0/3/0/1/1",
+            "last_cnx": "2015-02-13 17:03:49",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "4"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 116,
+                    "label": "frange"
+                },
+                {
+                    "id": 801,
+                    "label": "paramore"
+                },
+                {
+                    "id": 165,
+                    "label": "trueblood"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 110691660,
+            "pseudo": "Margauux",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/110691660",
+            "age": 24,
+            "city": "Nantes",
+            "cover": "http://s0.adopteunmec.com/fr/0/6/6/1/9/6/0/1/1",
+            "last_cnx": "2015-02-13 18:01:36",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "14"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 8,
+                    "label": "pulpeuse"
+                },
+                {
+                    "id": 120,
+                    "label": "etudiante"
+                },
+                {
+                    "id": 1142,
+                    "label": "apple"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 110689295,
+            "pseudo": "Charlotte",
+            "online": false,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/110689295",
+            "age": 25,
+            "city": "Nantes",
+            "cover": "http://s5.adopteunmec.com/fr/5/9/2/9/8/6/0/1/3",
+            "last_cnx": "2015-02-12 00:02:28",
+            "last_cnx_label": "1 jour",
+            "style": "0",
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 8,
+                    "label": "pulpeuse"
+                },
+                {
+                    "id": 1141,
+                    "label": "princesse"
+                },
+                {
+                    "id": 17,
+                    "label": "blonde"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 110959026,
+            "pseudo": "Anne Solène",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/110959026",
+            "age": 27,
+            "city": "Nantes",
+            "cover": "http://s6.adopteunmec.com/fr/6/2/0/9/5/9/0/1/1",
+            "last_cnx": "2015-02-13 17:42:35",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "2",
+                "4",
+                "13",
+                "14"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 7,
+                    "label": "svelte"
+                },
+                {
+                    "id": 587,
+                    "label": "randonnee"
+                },
+                {
+                    "id": 70,
+                    "label": "bcbg"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 110961999,
+            "pseudo": "Chloe",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/110961999",
+            "age": 22,
+            "city": "Nantes",
+            "cover": "http://s9.adopteunmec.com/fr/9/9/9/1/6/9/0/1/1",
+            "last_cnx": "2015-02-13 18:30:58",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "14"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 18,
+                    "label": "brune"
+                },
+                {
+                    "id": 358,
+                    "label": "larueketanou"
+                },
+                {
+                    "id": 242,
+                    "label": "musso"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 110354075,
+            "pseudo": "Carobzh",
+            "online": false,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/110354075",
+            "age": 29,
+            "city": "Nantes",
+            "cover": "http://s5.adopteunmec.com/fr/5/7/0/4/5/3/0/1/1",
+            "last_cnx": "2015-02-13 07:56:21",
+            "last_cnx_label": "8 heures",
+            "styles": [
+                "2",
+                "4",
+                "14",
+                "22"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 20,
+                    "label": "yeuxverts"
+                },
+                {
+                    "id": 406,
+                    "label": "roller"
+                },
+                {
+                    "id": 89,
+                    "label": "glamrock"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 110959419,
+            "pseudo": "Celineee",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/110959419",
+            "age": 19,
+            "city": "Nantes",
+            "cover": "http://s9.adopteunmec.com/fr/9/1/4/9/5/9/0/1/2",
+            "last_cnx": "2015-02-13 17:29:47",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "14"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 17,
+                    "label": "blonde"
+                },
+                {
+                    "id": 120,
+                    "label": "etudiante"
+                },
+                {
+                    "id": 19,
+                    "label": "yeuxbleus"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 16184167,
+            "pseudo": "Liv",
+            "online": false,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/16184167",
+            "age": 36,
+            "city": "Nantes",
+            "cover": "http://s7.adopteunmec.com/fr/7/6/1/4/8/1/6/23",
+            "last_cnx": "2015-02-11 21:43:26",
+            "last_cnx_label": "1 jour",
+            "styles": [
+                "4"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 17,
+                    "label": "blonde"
+                },
+                {
+                    "id": 127,
+                    "label": "voyages"
+                },
+                {
+                    "id": 53,
+                    "label": "femmeenfant"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 19381951,
+            "pseudo": "Cinq Destins",
+            "online": false,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/19381951",
+            "age": 26,
+            "city": "Nantes",
+            "cover": "http://s1.adopteunmec.com/fr/1/5/9/1/8/3/9/31",
+            "last_cnx": "2015-02-12 22:09:48",
+            "last_cnx_label": "18 heures",
+            "styles": [
+                "2"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 18,
+                    "label": "brune"
+                },
+                {
+                    "id": 363,
+                    "label": "aidesoignante"
+                },
+                {
+                    "id": 71,
+                    "label": "chic"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 19146970,
+            "pseudo": "Salsina",
+            "online": false,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/19146970",
+            "age": 23,
+            "city": "Nantes",
+            "cover": "http://s0.adopteunmec.com/fr/0/7/9/6/4/1/9/1",
+            "last_cnx": "2015-02-13 13:50:03",
+            "last_cnx_label": "2 heures",
+            "styles": [
+                "4",
+                "13",
+                "14"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 39,
+                    "label": "lunettes"
+                },
+                {
+                    "id": 120,
+                    "label": "etudiante"
+                },
+                {
+                    "id": 560,
+                    "label": "badminton"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 15828354,
+            "pseudo": "Émii",
+            "online": false,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/15828354",
+            "age": 23,
+            "city": "Nantes",
+            "cover": "http://s4.adopteunmec.com/fr/4/5/3/8/2/8/5/22",
+            "last_cnx": "2015-02-13 13:51:24",
+            "last_cnx_label": "2 heures",
+            "styles": [
+                "2"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 39,
+                    "label": "lunettes"
+                },
+                {
+                    "id": 278,
+                    "label": "coiffeuse"
+                },
+                {
+                    "id": 71,
+                    "label": "chic"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 19005527,
+            "pseudo": "Ln",
+            "online": false,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/19005527",
+            "age": 31,
+            "city": "Nantes",
+            "cover": "http://s7.adopteunmec.com/fr/7/2/5/5/0/0/9/3",
+            "last_cnx": "2015-02-13 13:56:43",
+            "last_cnx_label": "2 heures",
+            "styles": [
+                "4"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 20,
+                    "label": "yeuxverts"
+                },
+                {
+                    "id": 24,
+                    "label": "nonfumeuse"
+                },
+                {
+                    "id": 584,
+                    "label": "zazie"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 18624506,
+            "pseudo": "Sans Cible",
+            "online": false,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/18624506",
+            "age": 35,
+            "city": "Nantes",
+            "cover": "http://s6.adopteunmec.com/fr/6/0/5/4/2/6/8/15",
+            "last_cnx": "2015-02-11 22:19:35",
+            "last_cnx_label": "1 jour",
+            "styles": [
+                "8",
+                "17",
+                "25",
+                "27",
+                "35"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 27,
+                    "label": "pilierdebar"
+                },
+                {
+                    "id": 91,
+                    "label": "métalleuse"
+                },
+                {
+                    "id": 721,
+                    "label": "arethafranklin"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 18322297,
+            "pseudo": "Marjo",
+            "online": false,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/18322297",
+            "age": 20,
+            "city": "Nantes",
+            "cover": "http://s7.adopteunmec.com/fr/7/9/2/2/2/3/8/5",
+            "last_cnx": "2015-02-13 13:46:57",
+            "last_cnx_label": "2 heures",
+            "styles": [
+                "4"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 9,
+                    "label": "cheveuxlongs"
+                },
+                {
+                    "id": 120,
+                    "label": "etudiante"
+                },
+                {
+                    "id": 244,
+                    "label": "lilwayne"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 15277722,
+            "pseudo": "Agathe",
+            "online": false,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/15277722",
+            "age": 21,
+            "city": "Nantes",
+            "cover": "http://s2.adopteunmec.com/fr/2/2/7/7/7/2/5/9",
+            "last_cnx": "2015-02-12 17:16:39",
+            "last_cnx_label": "23 heures",
+            "styles": [
+                "2"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 8,
+                    "label": "pulpeuse"
+                },
+                {
+                    "id": 27,
+                    "label": "pilierdebar"
+                },
+                {
+                    "id": 71,
+                    "label": "chic"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 17759571,
+            "pseudo": "Harker",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/17759571",
+            "age": 25,
+            "city": "Nantes",
+            "cover": "http://s1.adopteunmec.com/fr/1/7/5/9/5/7/7/2",
+            "last_cnx": "2015-02-13 17:36:10",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "27"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 39,
+                    "label": "lunettes"
+                },
+                {
+                    "id": 28,
+                    "label": "vegan"
+                },
+                {
+                    "id": 91,
+                    "label": "métalleuse"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 14004188,
+            "pseudo": "Laure",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/14004188",
+            "age": 35,
+            "city": "Nantes",
+            "cover": "http://s8.adopteunmec.com/fr/8/8/1/4/0/0/4/6",
+            "last_cnx": "2015-02-13 17:51:47",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "4",
+                "6",
+                "12"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 18,
+                    "label": "brune"
+                },
+                {
+                    "id": 84,
+                    "label": "hippiechic"
+                },
+                {
+                    "id": 641,
+                    "label": "caravanpalace"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 17653013,
+            "pseudo": "Maya",
+            "online": false,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/17653013",
+            "age": 20,
+            "city": "Nantes",
+            "cover": "http://s3.adopteunmec.com/fr/3/1/0/3/5/6/7/1",
+            "last_cnx": "2015-02-13 00:28:44",
+            "last_cnx_label": "16 heures",
+            "styles": [
+                "1",
+                "5",
+                "7",
+                "20",
+                "21"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 7,
+                    "label": "svelte"
+                },
+                {
+                    "id": 120,
+                    "label": "etudiante"
+                },
+                {
+                    "id": 88,
+                    "label": "pinup"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 12760513,
+            "pseudo": "Aurelie",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/12760513",
+            "age": 24,
+            "city": "Nantes",
+            "cover": "http://s3.adopteunmec.com/fr/3/1/5/0/6/7/2/7",
+            "last_cnx": "2015-02-13 17:50:38",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "2"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 9,
+                    "label": "cheveuxlongs"
+                },
+                {
+                    "id": 1054,
+                    "label": "barmaid"
+                },
+                {
+                    "id": 71,
+                    "label": "chic"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 12748992,
+            "pseudo": "Claire",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/12748992",
+            "age": 26,
+            "city": "Nantes",
+            "cover": "http://s2.adopteunmec.com/fr/2/9/9/8/4/7/2/20",
+            "last_cnx": "2015-02-13 17:48:47",
+            "last_cnx_label": "en ligne",
+            "style": "0",
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 8,
+                    "label": "pulpeuse"
+                },
+                {
+                    "id": 127,
+                    "label": "voyages"
+                },
+                {
+                    "id": 829,
+                    "label": "nova"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 11512830,
+            "pseudo": "Ff  '",
+            "online": false,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/11512830",
+            "age": 25,
+            "city": "Nantes",
+            "cover": "http://s0.adopteunmec.com/fr/0/3/8/2/1/5/1/24",
+            "last_cnx": "2015-02-11 20:51:03",
+            "last_cnx_label": "1 jour",
+            "styles": [
+                "2",
+                "12",
+                "13"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 17,
+                    "label": "blonde"
+                },
+                {
+                    "id": 84,
+                    "label": "hippiechic"
+                },
+                {
+                    "id": 1370,
+                    "label": "paris14"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 12722872,
+            "pseudo": "Maracuja",
+            "online": false,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/12722872",
+            "age": 32,
+            "city": "Nantes",
+            "cover": "http://s2.adopteunmec.com/fr/2/7/8/2/2/7/2/29",
+            "last_cnx": "2015-02-11 19:20:47",
+            "last_cnx_label": "1 jour",
+            "styles": [
+                "2",
+                "3",
+                "4",
+                "21",
+                "35"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 88,
+                    "label": "pinup"
+                },
+                {
+                    "id": 410,
+                    "label": "kizomba"
+                },
+                {
+                    "id": 517,
+                    "label": "marvel"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 12722454,
+            "pseudo": "Milady",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/12722454",
+            "age": 21,
+            "city": "Nantes",
+            "cover": "http://s4.adopteunmec.com/fr/4/5/4/2/2/7/2/7",
+            "last_cnx": "2015-02-13 18:17:33",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "4",
+                "22"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 40,
+                    "label": "piercing"
+                },
+                {
+                    "id": 402,
+                    "label": "serveuse"
+                },
+                {
+                    "id": 89,
+                    "label": "glamrock"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 11499607,
+            "pseudo": "Bounty Addict",
+            "online": false,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/11499607",
+            "age": 29,
+            "city": "Nantes",
+            "cover": "http://s7.adopteunmec.com/fr/7/0/6/9/9/4/1/8",
+            "last_cnx": "2015-02-13 13:38:20",
+            "last_cnx_label": "2 heures",
+            "styles": [
+                "1"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 9,
+                    "label": "cheveuxlongs"
+                },
+                {
+                    "id": 177,
+                    "label": "fastandfurious"
+                },
+                {
+                    "id": 489,
+                    "label": "newgirl"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 1588656,
+            "pseudo": "Koh Tao",
+            "online": false,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/1588656",
+            "age": 34,
+            "city": "Nantes",
+            "cover": "http://s6.adopteunmec.com/fr/6/5/6/8/8/5/10",
+            "last_cnx": "2015-02-13 08:24:12",
+            "last_cnx_label": "8 heures",
+            "style": "0",
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 7,
+                    "label": "svelte"
+                },
+                {
+                    "id": 191,
+                    "label": "concerts"
+                },
+                {
+                    "id": 834,
+                    "label": "yodelice"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 12722417,
+            "pseudo": "Lu",
+            "online": false,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/12722417",
+            "age": 28,
+            "city": "Nantes",
+            "cover": "http://s7.adopteunmec.com/fr/7/1/4/2/2/7/2/3",
+            "last_cnx": "2015-02-13 09:11:00",
+            "last_cnx_label": "7 heures",
+            "styles": [
+                "4",
+                "35"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 39,
+                    "label": "lunettes"
+                },
+                {
+                    "id": 28,
+                    "label": "vegan"
+                },
+                {
+                    "id": 1066,
+                    "label": "velvetunderground"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 12721011,
+            "pseudo": "Titeclaire",
+            "online": false,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/12721011",
+            "age": 24,
+            "city": "Nantes",
+            "cover": "http://s1.adopteunmec.com/fr/1/1/0/1/2/7/2/21",
+            "last_cnx": "2015-02-12 10:17:05",
+            "last_cnx_label": "1 jour",
+            "styles": [
+                "2",
+                "4"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 20,
+                    "label": "yeuxverts"
+                },
+                {
+                    "id": 71,
+                    "label": "chic"
+                },
+                {
+                    "id": 693,
+                    "label": "florida"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 11498868,
+            "pseudo": "Lux Divina",
+            "online": false,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/11498868",
+            "age": 24,
+            "city": "Nantes",
+            "cover": "http://s8.adopteunmec.com/fr/8/6/8/8/9/4/1/8",
+            "last_cnx": "2015-02-13 12:53:50",
+            "last_cnx_label": "3 heures",
+            "styles": [
+                "4",
+                "5",
+                "10",
+                "28",
+                "35"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 17,
+                    "label": "blonde"
+                },
+                {
+                    "id": 384,
+                    "label": "blackswan"
+                },
+                {
+                    "id": 56,
+                    "label": "taquine"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 12707479,
+            "pseudo": "Dolorès V",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/12707479",
+            "age": 19,
+            "city": "Nantes",
+            "cover": "http://s9.adopteunmec.com/fr/9/7/4/7/0/7/2/54",
+            "last_cnx": "2015-02-13 18:18:51",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "27"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 9,
+                    "label": "cheveuxlongs"
+                },
+                {
+                    "id": 91,
+                    "label": "métalleuse"
+                },
+                {
+                    "id": 696,
+                    "label": "lovecraft"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 12707066,
+            "pseudo": "Pasca",
+            "online": false,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/12707066",
+            "age": 27,
+            "city": "Nantes",
+            "cover": "http://s6.adopteunmec.com/fr/6/6/0/7/0/7/2/3",
+            "last_cnx": "2015-02-13 11:31:29",
+            "last_cnx_label": "5 heures",
+            "styles": [
+                "2"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 7,
+                    "label": "svelte"
+                },
+                {
+                    "id": 71,
+                    "label": "chic"
+                },
+                {
+                    "id": 507,
+                    "label": "lepremierjourdurestedetavie"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 11481300,
+            "pseudo": "Joe",
+            "online": false,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/11481300",
+            "age": 25,
+            "city": "Nantes",
+            "cover": "http://s0.adopteunmec.com/fr/0/0/3/1/8/4/1/32",
+            "last_cnx": "2015-02-13 12:10:00",
+            "last_cnx_label": "4 heures",
+            "styles": [
+                "2",
+                "4",
+                "6",
+                "20",
+                "21"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 18,
+                    "label": "brune"
+                },
+                {
+                    "id": 88,
+                    "label": "pinup"
+                },
+                {
+                    "id": 1087,
+                    "label": "apocalyptica"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 1574196,
+            "pseudo": "A Lily A",
+            "online": false,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/1574196",
+            "age": 26,
+            "city": "Nantes",
+            "cover": "http://s6.adopteunmec.com/fr/6/9/1/4/7/5/26",
+            "last_cnx": "2015-02-11 19:46:44",
+            "last_cnx_label": "1 jour",
+            "styles": [
+                "4"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 17,
+                    "label": "blonde"
+                },
+                {
+                    "id": 278,
+                    "label": "coiffeuse"
+                },
+                {
+                    "id": 972,
+                    "label": "robinhobb"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 1184294,
+            "pseudo": "Sabrina",
+            "online": false,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/1184294",
+            "age": 26,
+            "city": "Nantes",
+            "cover": "http://s4.adopteunmec.com/fr/4/9/2/4/8/1/30",
+            "last_cnx": "2015-02-11 22:31:45",
+            "last_cnx_label": "1 jour",
+            "styles": [
+                "1",
+                "2",
+                "6",
+                "13"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 17,
+                    "label": "blonde"
+                },
+                {
+                    "id": 24,
+                    "label": "nonfumeuse"
+                },
+                {
+                    "id": 70,
+                    "label": "bcbg"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 12706710,
+            "pseudo": "Lau  '",
+            "online": false,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/12706710",
+            "age": 22,
+            "city": "Nantes",
+            "cover": "http://s0.adopteunmec.com/fr/0/1/7/6/0/7/2/29",
+            "last_cnx": "2015-02-12 09:39:49",
+            "last_cnx_label": "1 jour",
+            "styles": [
+                "4",
+                "6",
+                "12"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 18,
+                    "label": "brune"
+                },
+                {
+                    "id": 84,
+                    "label": "hippiechic"
+                },
+                {
+                    "id": 408,
+                    "label": "goldman"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 11462994,
+            "pseudo": "Zatatfe",
+            "online": false,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/11462994",
+            "age": 25,
+            "city": "Nantes",
+            "cover": "http://s4.adopteunmec.com/fr/4/9/9/2/6/4/1/14",
+            "last_cnx": "2015-02-12 19:14:55",
+            "last_cnx_label": "21 heures",
+            "style": "0",
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 19,
+                    "label": "yeuxbleus"
+                },
+                {
+                    "id": 24,
+                    "label": "nonfumeuse"
+                },
+                {
+                    "id": 404,
+                    "label": "polisse"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 1555923,
+            "pseudo": "Lulu Angers",
+            "online": false,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/1555923",
+            "age": 32,
+            "city": "Nantes",
+            "cover": "http://s3.adopteunmec.com/fr/3/2/9/5/5/5/2",
+            "last_cnx": "2015-02-12 14:52:36",
+            "last_cnx_label": "1 jour",
+            "style": "0",
+            "in_contact": false,
+            "hashtags": [],
+            "highlighted_values": []
+        },
+        {
+            "id": 12589987,
+            "pseudo": "Mlle S",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/12589987",
+            "age": 27,
+            "city": "Nantes",
+            "cover": "http://s7.adopteunmec.com/fr/7/8/9/9/8/5/2/37",
+            "last_cnx": "2015-02-13 16:43:20",
+            "last_cnx_label": "en ligne",
+            "style": "0",
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 9,
+                    "label": "cheveuxlongs"
+                },
+                {
+                    "id": 24,
+                    "label": "nonfumeuse"
+                },
+                {
+                    "id": 1142,
+                    "label": "apple"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 14056117,
+            "pseudo": "Kroxyca",
+            "online": false,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/14056117",
+            "age": 34,
+            "city": "Nantes",
+            "cover": "http://s7.adopteunmec.com/fr/7/1/1/6/5/0/4/3",
+            "last_cnx": "2015-02-12 08:27:03",
+            "last_cnx_label": "1 jour",
+            "styles": [
+                "4"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 9,
+                    "label": "cheveuxlongs"
+                },
+                {
+                    "id": 1032,
+                    "label": "kitesurf"
+                },
+                {
+                    "id": 24,
+                    "label": "nonfumeuse"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 11432417,
+            "pseudo": "Fabiola",
+            "online": false,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/11432417",
+            "age": 31,
+            "city": "Nantes",
+            "cover": "http://s7.adopteunmec.com/fr/7/1/4/2/3/4/1/9",
+            "last_cnx": "2015-02-12 09:04:28",
+            "last_cnx_label": "1 jour",
+            "styles": [
+                "3",
+                "4",
+                "14"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 18,
+                    "label": "brune"
+                },
+                {
+                    "id": 24,
+                    "label": "nonfumeuse"
+                },
+                {
+                    "id": 178,
+                    "label": "theatre"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 1171105,
+            "pseudo": "Miss Kinder",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/1171105",
+            "age": 27,
+            "city": "Nantes",
+            "cover": "http://s5.adopteunmec.com/fr/5/0/1/1/7/1/12",
+            "last_cnx": "2015-02-13 17:41:57",
+            "last_cnx_label": "en ligne",
+            "style": "0",
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 39,
+                    "label": "lunettes"
+                },
+                {
+                    "id": 476,
+                    "label": "dubinc"
+                },
+                {
+                    "id": 818,
+                    "label": "lamecaniqueducoeur"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 12515238,
+            "pseudo": "Dark Vampire",
+            "online": false,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/12515238",
+            "age": 25,
+            "city": "Nantes",
+            "cover": "http://s8.adopteunmec.com/fr/8/3/2/5/1/5/2/31",
+            "last_cnx": "2015-02-12 07:07:05",
+            "last_cnx_label": "1 jour",
+            "styles": [
+                "5",
+                "8",
+                "19",
+                "25",
+                "31"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 40,
+                    "label": "piercing"
+                },
+                {
+                    "id": 285,
+                    "label": "jeuxvideo"
+                },
+                {
+                    "id": 92,
+                    "label": "geekette"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 12511511,
+            "pseudo": "Garance",
+            "online": false,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/12511511",
+            "age": 49,
+            "city": "Nantes",
+            "cover": "http://s1.adopteunmec.com/fr/1/1/5/1/1/5/2/2",
+            "last_cnx": "2015-02-12 14:15:33",
+            "last_cnx_label": "1 jour",
+            "styles": [
+                "4"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 18,
+                    "label": "brune"
+                },
+                {
+                    "id": 478,
+                    "label": "bashung"
+                },
+                {
+                    "id": 548,
+                    "label": "kundera"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 11429423,
+            "pseudo": "Juliekiz",
+            "online": false,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/11429423",
+            "age": 31,
+            "city": "Nantes",
+            "cover": "http://s3.adopteunmec.com/fr/3/2/4/9/2/4/1/10",
+            "last_cnx": "2015-02-13 00:07:58",
+            "last_cnx_label": "16 heures",
+            "styles": [
+                "2",
+                "4",
+                "14"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 8,
+                    "label": "pulpeuse"
+                },
+                {
+                    "id": 26,
+                    "label": "nicopatch"
+                },
+                {
+                    "id": 71,
+                    "label": "chic"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 12509582,
+            "pseudo": "Caya",
+            "online": false,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/12509582",
+            "age": 30,
+            "city": "Nantes",
+            "cover": "http://s2.adopteunmec.com/fr/2/8/5/9/0/5/2/21",
+            "last_cnx": "2015-02-13 09:10:34",
+            "last_cnx_label": "7 heures",
+            "styles": [
+                "2",
+                "3",
+                "4"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 40,
+                    "label": "piercing"
+                },
+                {
+                    "id": 71,
+                    "label": "chic"
+                },
+                {
+                    "id": 251,
+                    "label": "django"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 12488845,
+            "pseudo": "Jess",
+            "online": false,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/12488845",
+            "age": 26,
+            "city": "Nantes",
+            "cover": "http://s5.adopteunmec.com/fr/5/4/8/8/8/4/2/14",
+            "last_cnx": "2015-02-13 06:53:35",
+            "last_cnx_label": "9 heures",
+            "style": "0",
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 18,
+                    "label": "brune"
+                },
+                {
+                    "id": 363,
+                    "label": "aidesoignante"
+                },
+                {
+                    "id": 135,
+                    "label": "funk"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 11421684,
+            "pseudo": "Line",
+            "online": false,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/11421684",
+            "age": 32,
+            "city": "Nantes",
+            "cover": "http://s4.adopteunmec.com/fr/4/8/6/1/2/4/1/22",
+            "last_cnx": "2015-02-13 00:31:02",
+            "last_cnx_label": "16 heures",
+            "styles": [
+                "21"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 18,
+                    "label": "brune"
+                },
+                {
+                    "id": 88,
+                    "label": "pinup"
+                },
+                {
+                    "id": 19,
+                    "label": "yeuxbleus"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 1537033,
+            "pseudo": "Babeth",
+            "online": false,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/1537033",
+            "age": 45,
+            "city": "Nantes",
+            "cover": "http://s3.adopteunmec.com/fr/3/3/0/7/3/5/9",
+            "last_cnx": "2015-02-13 16:33:41",
+            "last_cnx_label": "moins d'une minute",
+            "styles": [
+                "2"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 7,
+                    "label": "svelte"
+                },
+                {
+                    "id": 26,
+                    "label": "nicopatch"
+                },
+                {
+                    "id": 71,
+                    "label": "chic"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 157974,
+            "pseudo": "Fannette",
+            "online": false,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/157974",
+            "age": 27,
+            "city": "Nantes",
+            "cover": "http://s4.adopteunmec.com/fr/4/7/9/7/5/5",
+            "last_cnx": "2015-02-13 05:41:03",
+            "last_cnx_label": "10 heures",
+            "styles": [
+                "4"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 18,
+                    "label": "brune"
+                },
+                {
+                    "id": 259,
+                    "label": "infirmiere"
+                },
+                {
+                    "id": 215,
+                    "label": "ragga"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 116106,
+            "pseudo": "Tink",
+            "online": false,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/116106",
+            "age": 25,
+            "city": "Nantes",
+            "cover": "http://s6.adopteunmec.com/fr/6/0/1/6/1/44",
+            "last_cnx": "2015-02-12 20:27:23",
+            "last_cnx_label": "20 heures",
+            "styles": [
+                "5",
+                "6",
+                "7",
+                "14"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 8,
+                    "label": "pulpeuse"
+                },
+                {
+                    "id": 1035,
+                    "label": "tenaciousd"
+                },
+                {
+                    "id": 665,
+                    "label": "grimm"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 12466574,
+            "pseudo": "Tibou",
+            "online": false,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/12466574",
+            "age": 42,
+            "city": "Nantes",
+            "cover": "http://s4.adopteunmec.com/fr/4/7/5/6/6/4/2/5",
+            "last_cnx": "2015-02-12 07:17:49",
+            "last_cnx_label": "1 jour",
+            "styles": [
+                "2"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 8,
+                    "label": "pulpeuse"
+                },
+                {
+                    "id": 71,
+                    "label": "chic"
+                },
+                {
+                    "id": 125,
+                    "label": "ncis"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 12458480,
+            "pseudo": "Cécé",
+            "online": false,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/12458480",
+            "age": 33,
+            "city": "Nantes",
+            "cover": "http://s0.adopteunmec.com/fr/0/8/4/8/5/4/2/2",
+            "last_cnx": "2015-02-12 19:54:13",
+            "last_cnx_label": "20 heures",
+            "styles": [
+                "1"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 18,
+                    "label": "brune"
+                },
+                {
+                    "id": 579,
+                    "label": "sigurros"
+                },
+                {
+                    "id": 398,
+                    "label": "thebiglebowski"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 11415045,
+            "pseudo": "Viva",
+            "online": false,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/11415045",
+            "age": 42,
+            "city": "Nantes",
+            "cover": "http://s5.adopteunmec.com/fr/5/4/0/5/1/4/1/1",
+            "last_cnx": "2015-02-12 16:54:00",
+            "last_cnx_label": "23 heures",
+            "style": "0",
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 18,
+                    "label": "brune"
+                },
+                {
+                    "id": 1081,
+                    "label": "miossec"
+                },
+                {
+                    "id": 959,
+                    "label": "pennac"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 12421237,
+            "pseudo": "Mary",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/12421237",
+            "age": 23,
+            "city": "Nantes",
+            "cover": "http://s7.adopteunmec.com/fr/7/3/2/1/2/4/2/7",
+            "last_cnx": "2015-02-13 18:07:48",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "6"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 7,
+                    "label": "svelte"
+                },
+                {
+                    "id": 1194,
+                    "label": "bohème"
+                },
+                {
+                    "id": 18,
+                    "label": "brune"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 12414380,
+            "pseudo": "Crapule",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/12414380",
+            "age": 24,
+            "city": "Nantes",
+            "cover": "http://s0.adopteunmec.com/fr/0/8/3/4/1/4/2/10",
+            "last_cnx": "2015-02-13 17:00:49",
+            "last_cnx_label": "en ligne",
+            "style": "0",
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 17,
+                    "label": "blonde"
+                },
+                {
+                    "id": 1142,
+                    "label": "apple"
+                },
+                {
+                    "id": 19,
+                    "label": "yeuxbleus"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 11400220,
+            "pseudo": "Anne",
+            "online": false,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/11400220",
+            "age": 29,
+            "city": "Nantes",
+            "cover": "http://s0.adopteunmec.com/fr/0/2/2/0/0/4/1/19",
+            "last_cnx": "2015-02-13 15:45:51",
+            "last_cnx_label": "50 minutes",
+            "styles": [
+                "2",
+                "13"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 17,
+                    "label": "blonde"
+                },
+                {
+                    "id": 70,
+                    "label": "bcbg"
+                },
+                {
+                    "id": 52,
+                    "label": "séductrice"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 1524936,
+            "pseudo": "Jungle Mimi",
+            "online": false,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/1524936",
+            "age": 28,
+            "city": "Nantes",
+            "cover": "http://s6.adopteunmec.com/fr/6/3/9/4/2/5/40",
+            "last_cnx": "2015-02-13 15:38:38",
+            "last_cnx_label": "58 minutes",
+            "styles": [
+                "4",
+                "20",
+                "21",
+                "28",
+                "35"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 8,
+                    "label": "pulpeuse"
+                },
+                {
+                    "id": 88,
+                    "label": "pinup"
+                },
+                {
+                    "id": 1074,
+                    "label": "jazzmanouche"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 12402658,
+            "pseudo": "Ju",
+            "online": false,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/12402658",
+            "age": 23,
+            "city": "Nantes",
+            "cover": "http://s8.adopteunmec.com/fr/8/5/6/2/0/4/2/10",
+            "last_cnx": "2015-02-13 15:50:48",
+            "last_cnx_label": "45 minutes",
+            "styles": [
+                "6"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 17,
+                    "label": "blonde"
+                },
+                {
+                    "id": 337,
+                    "label": "goodmorningengland"
+                },
+                {
+                    "id": 118,
+                    "label": "dévergondée"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 12399049,
+            "pseudo": "Opaline",
+            "online": false,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/12399049",
+            "age": 35,
+            "city": "Nantes",
+            "cover": "http://s9.adopteunmec.com/fr/9/4/0/9/9/3/2/28",
+            "last_cnx": "2015-02-13 00:10:40",
+            "last_cnx_label": "16 heures",
+            "style": "0",
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 7,
+                    "label": "svelte"
+                },
+                {
+                    "id": 24,
+                    "label": "nonfumeuse"
+                },
+                {
+                    "id": 19,
+                    "label": "yeuxbleus"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 11391966,
+            "pseudo": "Henrica",
+            "online": false,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/11391966",
+            "age": 39,
+            "city": "Nantes",
+            "cover": "http://s6.adopteunmec.com/fr/6/6/9/1/9/3/1/35",
+            "last_cnx": "2015-02-13 13:40:44",
+            "last_cnx_label": "2 heures",
+            "styles": [
+                "2"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 18,
+                    "label": "brune"
+                },
+                {
+                    "id": 71,
+                    "label": "chic"
+                },
+                {
+                    "id": 149,
+                    "label": "hiphop"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 12394652,
+            "pseudo": "Loulou Blue",
+            "online": false,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/12394652",
+            "age": 33,
+            "city": "Nantes",
+            "cover": "http://s2.adopteunmec.com/fr/2/5/6/4/9/3/2/6",
+            "last_cnx": "2015-02-13 14:34:05",
+            "last_cnx_label": "2 heures",
+            "styles": [
+                "6"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 8,
+                    "label": "pulpeuse"
+                },
+                {
+                    "id": 131,
+                    "label": "gameofthrones"
+                },
+                {
+                    "id": 1194,
+                    "label": "bohème"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 12394130,
+            "pseudo": "Jujuly",
+            "online": false,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/12394130",
+            "age": 26,
+            "city": "Nantes",
+            "cover": "http://s0.adopteunmec.com/fr/0/3/1/4/9/3/2/15",
+            "last_cnx": "2015-02-13 14:01:30",
+            "last_cnx_label": "2 heures",
+            "styles": [
+                "2",
+                "4"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 9,
+                    "label": "cheveuxlongs"
+                },
+                {
+                    "id": 71,
+                    "label": "chic"
+                },
+                {
+                    "id": 132,
+                    "label": "intothewild"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 11354577,
+            "pseudo": "Chaynaymia",
+            "online": false,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/11354577",
+            "age": 36,
+            "city": "Nantes",
+            "cover": "http://s7.adopteunmec.com/fr/7/7/5/4/5/3/1/1",
+            "last_cnx": "2015-02-11 19:42:01",
+            "last_cnx_label": "1 jour",
+            "styles": [
+                "4"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 18,
+                    "label": "brune"
+                },
+                {
+                    "id": 135,
+                    "label": "funk"
+                },
+                {
+                    "id": 165,
+                    "label": "trueblood"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 1510411,
+            "pseudo": "Pitchoune",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/1510411",
+            "age": 27,
+            "city": "Nantes",
+            "cover": "http://s1.adopteunmec.com/fr/1/1/4/0/1/5/15",
+            "last_cnx": "2015-02-13 17:55:50",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "4"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 18,
+                    "label": "brune"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 1142731,
+            "pseudo": "Janythebloody",
+            "online": false,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/1142731",
+            "age": 26,
+            "city": "Nantes",
+            "cover": "http://s1.adopteunmec.com/fr/1/3/7/2/4/1/15",
+            "last_cnx": "2015-02-13 00:04:52",
+            "last_cnx_label": "16 heures",
+            "styles": [
+                "5",
+                "24",
+                "29",
+                "30",
+                "35"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 40,
+                    "label": "piercing"
+                },
+                {
+                    "id": 120,
+                    "label": "etudiante"
+                },
+                {
+                    "id": 77,
+                    "label": "neogrunge"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 12377616,
+            "pseudo": "Kyli",
+            "online": false,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/12377616",
+            "age": 26,
+            "city": "Nantes",
+            "cover": "http://s6.adopteunmec.com/fr/6/1/6/7/7/3/2/6",
+            "last_cnx": "2015-02-13 16:17:53",
+            "last_cnx_label": "moins d'une minute",
+            "style": "0",
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 18,
+                    "label": "brune"
+                },
+                {
+                    "id": 258,
+                    "label": "pink"
+                },
+                {
+                    "id": 340,
+                    "label": "retourverslefutur"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 13641796,
+            "pseudo": "Za",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/13641796",
+            "age": 23,
+            "city": "Nantes",
+            "cover": "http://s6.adopteunmec.com/fr/6/9/7/1/4/6/3/9",
+            "last_cnx": "2015-02-13 18:03:44",
+            "last_cnx_label": "en ligne",
+            "styles": [
+                "1",
+                "4",
+                "5",
+                "14",
+                "22"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 8,
+                    "label": "pulpeuse"
+                },
+                {
+                    "id": 120,
+                    "label": "etudiante"
+                },
+                {
+                    "id": 127,
+                    "label": "voyages"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 11349027,
+            "pseudo": "Myssyjuju",
+            "online": false,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/11349027",
+            "age": 34,
+            "city": "Nantes",
+            "cover": "http://s7.adopteunmec.com/fr/7/2/0/9/4/3/1/6",
+            "last_cnx": "2015-02-13 16:30:36",
+            "last_cnx_label": "moins d'une minute",
+            "style": "0",
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 125,
+                    "label": "ncis"
+                },
+                {
+                    "id": 104,
+                    "label": "bonbon"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 12363952,
+            "pseudo": "Clo",
+            "online": true,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/12363952",
+            "age": 33,
+            "city": "Nantes",
+            "cover": "http://s2.adopteunmec.com/fr/2/5/9/3/6/3/2/4",
+            "last_cnx": "2015-02-13 18:03:15",
+            "last_cnx_label": "en ligne",
+            "style": "0",
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 17,
+                    "label": "blonde"
+                },
+                {
+                    "id": 259,
+                    "label": "infirmiere"
+                },
+                {
+                    "id": 508,
+                    "label": "arcadefire"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 13607442,
+            "pseudo": "Miii",
+            "online": false,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/13607442",
+            "age": 24,
+            "city": "Nantes",
+            "cover": "http://s2.adopteunmec.com/fr/2/4/4/7/0/6/3/23",
+            "last_cnx": "2015-02-13 12:06:01",
+            "last_cnx_label": "4 heures",
+            "styles": [
+                "2"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 8,
+                    "label": "pulpeuse"
+                },
+                {
+                    "id": 216,
+                    "label": "tennis"
+                },
+                {
+                    "id": 71,
+                    "label": "chic"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 13568790,
+            "pseudo": "Sophie'd",
+            "online": false,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/13568790",
+            "age": 25,
+            "city": "Nantes",
+            "cover": "http://s0.adopteunmec.com/fr/0/9/7/8/6/5/3/6",
+            "last_cnx": "2015-02-12 20:42:22",
+            "last_cnx_label": "19 heures",
+            "style": "0",
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 19,
+                    "label": "yeuxbleus"
+                },
+                {
+                    "id": 259,
+                    "label": "infirmiere"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 12350117,
+            "pseudo": "Perrine",
+            "online": false,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/12350117",
+            "age": 24,
+            "city": "Nantes",
+            "cover": "http://s7.adopteunmec.com/fr/7/1/1/0/5/3/2/25",
+            "last_cnx": "2015-02-13 15:44:10",
+            "last_cnx_label": "52 minutes",
+            "styles": [
+                "2",
+                "6",
+                "13",
+                "14"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 18,
+                    "label": "brune"
+                },
+                {
+                    "id": 120,
+                    "label": "etudiante"
+                },
+                {
+                    "id": 70,
+                    "label": "bcbg"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 11293438,
+            "pseudo": "Thepeste",
+            "online": false,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/11293438",
+            "age": 36,
+            "city": "Nantes",
+            "cover": "http://s8.adopteunmec.com/fr/8/3/4/3/9/2/1/7",
+            "last_cnx": "2015-02-13 09:22:13",
+            "last_cnx_label": "7 heures",
+            "styles": [
+                "8"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 18,
+                    "label": "brune"
+                },
+                {
+                    "id": 769,
+                    "label": "assistantecommerciale"
+                },
+                {
+                    "id": 256,
+                    "label": "placebo"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 1468110,
+            "pseudo": "Mimibb",
+            "online": false,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/1468110",
+            "age": 35,
+            "city": "Nantes",
+            "cover": "http://s0.adopteunmec.com/fr/0/1/1/8/6/4/6",
+            "last_cnx": "2015-02-11 22:10:58",
+            "last_cnx_label": "1 jour",
+            "styles": [
+                "4",
+                "14"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 18,
+                    "label": "brune"
+                },
+                {
+                    "id": 104,
+                    "label": "bonbon"
+                },
+                {
+                    "id": 9,
+                    "label": "cheveuxlongs"
+                }
+            ],
+            "highlighted_values": []
+        },
+        {
+            "id": 15573539,
+            "pseudo": "Ironie",
+            "online": false,
+            "sex": 1,
+            "$ref": "http://api.adopteunmec.com/api/users/15573539",
+            "age": 32,
+            "city": "Nantes",
+            "cover": "http://s9.adopteunmec.com/fr/9/3/5/3/7/5/5/17",
+            "last_cnx": "2015-02-12 08:27:23",
+            "last_cnx_label": "1 jour",
+            "styles": [
+                "3",
+                "14"
+            ],
+            "in_contact": false,
+            "hashtags": [
+                {
+                    "id": 39,
+                    "label": "lunettes"
+                },
+                {
+                    "id": 25,
+                    "label": "fumeuse"
+                },
+                {
+                    "id": 9,
+                    "label": "cheveuxlongs"
+                }
+            ],
+            "highlighted_values": []
+        }
+    ]
+}
