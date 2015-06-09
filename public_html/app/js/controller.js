@@ -17,10 +17,10 @@ appControllers.controller('UserController', ['$scope',
 	
 }]);
 
-appControllers.controller('UserDetailController', ['$scope', 'AdopiFactory','$routeParams','$filter', 
-	function($scope, AdopiFactory, $routeParams, $filter){
+appControllers.controller('UserDetailController', ['$scope', 'AdopiFactory','$stateParams','$filter', 
+	function($scope, AdopiFactory, $stateParams, $filter){
 
-		AdopiFactory.userDetail($routeParams.userId).success(function(detail){$scope.detail = detail;
+		AdopiFactory.userDetail($stateParams.userId).success(function(detail){$scope.detail = detail;
 			$filter('imgUrlFilter')($scope.detail.cover);
 		});
 
@@ -42,17 +42,17 @@ app.controller('UserController', ['$scope',
 	
 }]);*/
 
-/*app.controller('UserDetailController', ['$scope', 'AdopiFactory','$routeParams', 
-	function($scope, AdopiFactory, $routeParams){
-		$scope.routeParams = $routeParams;
-		$scope.detail = AdopiFactory.userDetail($routeParams.userId);
+/*app.controller('UserDetailController', ['$scope', 'AdopiFactory','$stateParams', 
+	function($scope, AdopiFactory, $stateParams){
+		$scope.routeParams = $stateParams;
+		$scope.detail = AdopiFactory.userDetail($stateParams.userId);
 		console.log($scope.detail);
 		console.log($scope.routeParams);
 }]);
 
-app.controller('SearchController', ['$scope', 'AdopiFactory','$routeParams', 
+app.controller('SearchController', ['$scope', 'AdopiFactory','$stateParams', 
 	function($scope, AdopiFactory){
 
-		$scope.search = AdopiFactory.searchUsers($routeParams);
+		$scope.search = AdopiFactory.searchUsers($stateParams);
 		console.log($scope.search);
 }]);*/

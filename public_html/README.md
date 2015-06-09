@@ -2,6 +2,35 @@ Auth avec login et mdp du site adopteunmec. compte test
 <identifiant = 'test@gustr.com'></identifiant>
 <password ='123456971'></password>
 
+tester un appel sans avoir à saisir les infos
+
+
+listFromWebservice: function() {
+                    var deferred = $q.defer();
+
+                    delete $http.defaults.headers.common['X-Request-With'];
+    
+                    $resource(ApplicationConfiguration.webServiceURL + 'Thematiques', {}, {
+                        get: {
+                            method: 'GET',
+                            headers: {
+                                'Authorization': 'Basic a3JvbWk6a3JvbWl0ZXN0' /* ApplicationConfiguration.webServiceAUTH*/
+                            },
+                            isArray: true,
+                            cache:  false,
+                        }
+                    }).query(function(result){
+                        ThematiqueService.parseListResult(result);
+                        deferred.resolve(ThematiqueService.thematiques);
+                    });
+
+                    return deferred.promise;
+                }
+
+
+
+
+
 ##########
 API Urls trouvé
 ##########

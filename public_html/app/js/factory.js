@@ -2,11 +2,18 @@
 
 var appFactories = angular.module('appFactories',['ngResource']);
 
-appFactories.factory('AdopiFactory',['$http','$resource',function($http, $resource){
+appFactories.factory('AdopiFactory',['$http','$resource','wsConstants',function($http, $resource, wsConstants){
     return {
 
+        account: function(){
+            var url = 'http://www.adopteunmec.com/api/home/';
+            return $http.get(url);
+        },
+
         userList: function(){
-            var url = 'http://api.adopteunmec.com/api/users?count=10&offset=0';
+           var url = wsConstants.webServiceURL+'users?count=50&offset=0';
+           //delete $http.defaults.headers.common['X-Request-With'];
+           $http.defaults.headers.common.Authorization = wsConstants.webServiceAUTH;
                return $http.get(url)
                     /*.success(function(data){
                         console.log('success', data);
@@ -16,8 +23,8 @@ appFactories.factory('AdopiFactory',['$http','$resource',function($http, $resour
                     })*/;
         },
 
-        searchUsers: function(requete){
-            var url = 'https://api.adopteunmec.com/api/loop?count=5&q='+ requete +'&offset=0';
+        searchUsers: function(requete, offset){
+           var url = wsConstants.webServiceURL+'loop?count=50&q='+ requete +'&offset='+offset;
             return $http.get(url)
                     .success(function(data){
                         data;
@@ -27,16 +34,18 @@ appFactories.factory('AdopiFactory',['$http','$resource',function($http, $resour
                     });
         },      
         
-        userDetail: function(userId){
-            //var url = 'https://api.adopteunmec.com/api/users/:userId';
-            /*return $resource('https://api.adopteunmec.com/api/users/:userId', {}, {
+        userDetail: function($resource){
+            var url = 'https://api.adopteunmec.com/api/users/'+$resource;
+            $http.defaults.headers.common.Authorization = wsConstants.webServiceAUTH;
+               return $http.get(url)
+            /*return $resource('/profile/:userId', {}, {
               query: {method:'GET', params:{userId:'user'}, isArray:true}
             });
+*/
+            console.log($resource);
 
-            console.log($resource);*/
-
-            var url = 'https://api.adopteunmec.com/api/users/'+userId;
-            return $http.get(url);
+            /*var url = 'http://api.adopteunmec.com/api/users/'+$resource;
+            return $http.get(url);*/
         }
     };
 }]);

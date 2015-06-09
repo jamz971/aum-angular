@@ -1,40 +1,40 @@
-<div class="list-group" ng-repeat="g in list | filter:query">
-    <ul class="list-group-item">
-    <a class="" ng-href="#/user/{{g.id}}">
-        <div class="picture">
-            <img  ng-src="{{g.cover | imgUrlFilter:g.cover}}" class="img-thumbnail">
-        </div>
-    </a>
-    <div class="infos">
-        <h4>{{g.pseudo | uppercase}}</h4>
-        <span> {{ g.age}} ans</span>
-        <span class="text-primary">{{g.city}}</span>
-        <div class="tags">
-            <a ng-repeat="hashtag in g.hashtags" ng-href="#/tags/{{hashtag.id}}"> #{{hashtag.label}} </a>
-        </div>                       
-    </div>
-    </ul>
-</div>    
+<!-- <div class="list-group" ng-repeat="g in list | filter:query">
+      <ul class="list-group-item">
+      <a class="" ui-sref="profile({userId:g.id})">
+          <div class="picture">
+              <img  ng-src="{{g.cover | imgUrlFilter:g.cover}}" class="img-thumbnail">
+          </div>
+      </a>
+      <div class="infos">
+          <h4>{{g.pseudo | uppercase}}</h4>
+          <span> {{ g.age}} ans</span>
+          <span class="text-primary">{{g.city}}</span>
+          <div class="tags">
+              <a ng-repeat="hashtag in g.hashtags" ui-sref="tag-detail({tagId:hashtag.id})"> #{{hashtag.label}} </a>
+          </div>                       
+      </div>
+      </ul>
+  </div>   -->  
 
-    
+<div class="row" >
+    <div class="col-sm-3" ng-repeat="g in list | filter:query">
+        <div class="box">
+            <a class="" ui-sref="profile({userId:g.id})">
+                <img  ng-src="{{g.cover | imgUrlFilter:g.cover}}" class="img-thumbnail" style="width:200px; height:200px; ">
+            </a>
 
-<!-- <div class="row">
-    <div class="list-group" ng-repeat="g in list | filter:query">
-        <a class="list-group-item" ng-href="#/user/{{g.id}}">
-            <div class="picture">
-                <img  ng-src="{{g.cover | imgUrlFilter:g.cover}}" class="img-thumbnail">
+            <div class="infos">
+                <p>{{g.pseudo | uppercase}} <span> {{ g.age}} ans</span>
+                <span class="text-primary">{{g.city}}</span>
+                </p>
+                <div class="tags">
+                    <a ng-repeat="hashtag in g.hashtags" ui-sref="tag-detail({tagId:hashtag.id})"> #{{hashtag.label}} </a>
+                </div>                       
             </div>
-        </a>
-        <div class="infos">
-            <h4>{{g.pseudo | uppercase}}</h4>
-            <span> {{ g.age}} ans</span>
-            <span class="text-primary">{{g.city}}</span>
-            <div class="tags">
-                <a ng-repeat="hashtag in g.hashtags" ng-href="#/tags/{{hashtag.id}}"> #{{hashtag.label}} </a>
-            </div>                       
         </div>
-    </div>    
-</div> -->
+    </div>
+</div>
+
 
 <nav>
     <ul class="pager">
