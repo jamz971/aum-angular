@@ -1,51 +1,31 @@
 'use strict';
 
-var appFactories = angular.module('appFactories',['ngResource']);
+var appFactories = angular.module('appFactories',[]);
 
-appFactories.factory('AdopiFactory',['$http','$resource','wsConstants',function($http, $resource, wsConstants){
+appFactories.factory('AdopiFactory',['$http','$resource','wsConstants','$cacheFactory',function($http, $resource, wsConstants, $cacheFactory){
     return {
 
         account: function(){
-            var url = 'http://www.adopteunmec.com/api/home/';
+            var url = wsConstants.webServiceURL+'home/';
             return $http.get(url);
         },
 
-        userList: function(){
-           var url = wsConstants.webServiceURL+'users?count=50&offset=0';
+        userList: function(offset){
+           var url = wsConstants.webServiceURL+'users?count=200&offset='+offset;
            //delete $http.defaults.headers.common['X-Request-With'];
-           $http.defaults.headers.common.Authorization = wsConstants.webServiceAUTH;
-               return $http.get(url)
-                    /*.success(function(data){
-                        console.log('success', data);
-                    }).
-                    error(function(status, headers){
-                        consloe.log('error', status, headers, config);
-                    })*/;
+           //$http.defaults.headers.common.Authorization = wsConstants.webServiceAUTH;
+            return $http.get(url, {cache:true});
         },
 
         searchUsers: function(requete, offset){
-           var url = wsConstants.webServiceURL+'loop?count=50&q='+ requete +'&offset='+offset;
-            return $http.get(url)
-                    .success(function(data){
-                        data;
-                    }).
-                    error(function(status, headers){
-                        status, headers;
-                    });
+           var url = wsConstants.webServiceURL+'loop?count=200&q='+ requete +'&offset='+offset;
+            return $http.get(url, {cache:true});
         },      
         
         userDetail: function($resource){
-            var url = 'https://api.adopteunmec.com/api/users/'+$resource;
-            $http.defaults.headers.common.Authorization = wsConstants.webServiceAUTH;
-               return $http.get(url)
-            /*return $resource('/profile/:userId', {}, {
-              query: {method:'GET', params:{userId:'user'}, isArray:true}
-            });
-*/
-            console.log($resource);
-
-            /*var url = 'http://api.adopteunmec.com/api/users/'+$resource;
-            return $http.get(url);*/
+            var url = 'http://api.adopteunmec.com/api/users/'+$resource;
+            //$http.defaults.headers.common.Authorization = wsConstants.webServiceAUTH;
+            return $http.get(url, {cache:true})
         }
     };
 }]);

@@ -1,31 +1,40 @@
-<!-- <div class="list-group" ng-repeat="g in list | filter:query">
-      <ul class="list-group-item">
-      <a class="" ui-sref="profile({userId:g.id})">
-          <div class="picture">
-              <img  ng-src="{{g.cover | imgUrlFilter:g.cover}}" class="img-thumbnail">
-          </div>
-      </a>
-      <div class="infos">
-          <h4>{{g.pseudo | uppercase}}</h4>
-          <span> {{ g.age}} ans</span>
-          <span class="text-primary">{{g.city}}</span>
-          <div class="tags">
-              <a ng-repeat="hashtag in g.hashtags" ui-sref="tag-detail({tagId:hashtag.id})"> #{{hashtag.label}} </a>
-          </div>                       
-      </div>
-      </ul>
-  </div>   -->  
-
-<div class="row" >
-    <div class="col-sm-3" ng-repeat="g in list | filter:query">
+<!-- <div class="row" id="products">
+    <div class="col-sm-3" dir-paginate="g in list | filter:query | itemsPerPage: numberPerPage" current-page="currentPage">
         <div class="box">
             <a class="" ui-sref="profile({userId:g.id})">
                 <img  ng-src="{{g.cover | imgUrlFilter:g.cover}}" class="img-thumbnail" style="width:200px; height:200px; ">
             </a>
 
             <div class="infos">
-                <p>{{g.pseudo | uppercase}} <span> {{ g.age}} ans</span>
+                <p>{{g.pseudo | uppercase}} <span> {{g.age}} ans</span>
                 <span class="text-primary">{{g.city}}</span>
+                </p>
+                <div class="tags">
+                    <a ng-repeat="hashtag in g.hashtags" ui-sref="tag-detail({tagId:hashtag.id})"> #{{hashtag.label}} </a>
+                </div>                       
+            </div>
+        </div>
+    </div>
+</div> -->
+
+<div class="well well-sm">
+    <strong>Category Title</strong>
+    <div class="btn-group">
+        <a href="#" id="list" class="btn btn-default btn-sm"><span class="glyphicon glyphicon-th-list">
+        </span>List</a> <a href="#" id="grid" class="btn btn-default btn-sm"><span
+            class="glyphicon glyphicon-th"></span>Grid</a>
+    </div>
+</div>
+<div id="products" class="row list-group">
+    <div class="item  col-xs-4 col-md-4" dir-paginate="g in ::list | filter:query | itemsPerPage: numberPerPage" current-page="currentPage">
+        <div class="thumbnail">
+            <a ui-sref="profile({userId:g.id})">
+                <img  ng-src="{{g.cover | imgUrlFilter:g.cover}}" class=" group list-group-image" style="width:200px; height:200px; ">
+            </a>
+
+            <div class="caption">
+                <p class="group inner list-group-item-text"> <span ng-bind="g.pseudo | uppercase"></span> <span ng-bind="::g.age"> ans</span>
+                <span class="text-primary" ng-bind="::g.city"></span>
                 </p>
                 <div class="tags">
                     <a ng-repeat="hashtag in g.hashtags" ui-sref="tag-detail({tagId:hashtag.id})"> #{{hashtag.label}} </a>
@@ -35,14 +44,4 @@
     </div>
 </div>
 
-
-<nav>
-    <ul class="pager">
-        <li>
-            <a href="">&laquo;</a>
-        </li>
-        <li class="disabled">
-            <a href="">&raquo;</a>
-        </li>
-    </ul>   
-</nav>   
+<dir-pagination-controls boundary-links="true" on-page-change="pageChangeHandler(numberPageShow)" template-url="../app/views/pagination.tpl.html"></dir-pagination-controls>

@@ -3,12 +3,20 @@ var appControllers = angular.module('appControllers',[]);
 
 appControllers.controller('MainController',['$scope', 'AdopiFactory','$filter',
 	function($scope, AdopiFactory, $filter){
+		$scope.currentPage = 1;
+  		$scope.numberPerPage = 12;
+  		$scope.numberpageShow = 5;
+  		var i=0;
 
-		 AdopiFactory.userList().success(function(list){$scope.list = list.results;
-		 	
-		 		//console.log($filter('imgUrlFilter')($scope.list[i].cover));
-		 	
-		 });
+  		$scope.pageChangeHandler = function(num) {
+		    console.log('going to page ' + num);
+		};
+			
+			AdopiFactory.userList(i).success(
+		 	function(list){
+		 		$scope.list = list.results;
+		 		//console.log($filter('imgUrlFilter')($scope.list[i].cover));		 	
+		 	});		 
 
 }]);
 

@@ -1,9 +1,9 @@
 <div class="list-group">
-    <img  src="{{detail.cover | imgUrlFilter:detail.cover}}" class="img-thumbnail">
+    <img  src="{{::detail.cover | imgUrlFilter:g.cover}}" class="img-thumbnail">
     <p>{{detail.pseudo}} {{detail.age}} ans</p>
-    <p class="text-primary">{{detail.city}}</p>
-    <p>{{detail.last_cnx_label }} le : {{detail.last_cnx }}</p>
-    <p>{{detail.about1}}</p>
-    <p>{{detail.about2}}</p>              
+    <p class="text-primary" ng-bind="detail.city"></p>
+    <p> <span ng-bind="detail.last_cnx_label"></span> le : <span ng-bind="detail.last_cnx"></span></p>
+    <p ng-bind="detail.about1"></p>
+    <p ng-bind="detail.about2"></p>              
 </div>
 <!-- caroussel photo -->
