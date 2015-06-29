@@ -4,6 +4,7 @@ Mockup/
 node_modules/
 test/
 nbproject/
+infos.md
 
 # pas de fichier .php
 *.php

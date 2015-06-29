@@ -25,8 +25,8 @@
             class="glyphicon glyphicon-th"></span>Grid</a>
     </div>
 </div>
-<div id="products" class="row list-group">
-    <div class="item  col-xs-4 col-md-4" dir-paginate="g in ::list | filter:query | itemsPerPage: numberPerPage" current-page="currentPage">
+<div id="products" class="row clearfix list-group">
+    <div class="col-xs-4 col-md-4 item" dir-paginate="g in ::list | filter:query | itemsPerPage: numberPerPage" current-page="currentPage">
         <div class="thumbnail">
             <a ui-sref="profile({userId:g.id})">
                 <img  ng-src="{{g.cover | imgUrlFilter:g.cover}}" class=" group list-group-image" style="width:200px; height:200px; ">
