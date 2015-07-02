@@ -29,3 +29,13 @@ appFactories.factory('AdopiFactory',['$http','$resource','wsConstants','$cacheFa
         }
     };
 }]);
+
+appFactories.factory('AdopiLocalFactory',['$http','$resource','wsConstants','$cacheFactory',function($http, $resource, wsConstants, $cacheFactory){
+    return {
+
+
+        userLocalList: function(){
+            return $http.get('data/nantes/nantes.json');
+        }
+    };
+}]);

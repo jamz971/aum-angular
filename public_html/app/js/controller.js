@@ -13,9 +13,17 @@ appControllers.controller('MainController',['$scope', 'AdopiFactory','$filter',
 		};
 			
 			AdopiFactory.userList(i).success(
-		 	function(list){
+		 		function(list){
 		 		$scope.list = list.results;
 		 		//console.log($filter('imgUrlFilter')($scope.list[i].cover));		 	
+		 	}).
+		 	error(
+		 		function(){
+		 			AdopiLocalFactory.userLocalList().success(
+		 				function(list){
+		 					$scope.list = list.results;
+		 				}
+		 			);
 		 	});		 
 
 }]);
