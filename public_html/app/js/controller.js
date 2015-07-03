@@ -1,16 +1,12 @@
 'use strict';
 var appControllers = angular.module('appControllers',[]);
 
-appControllers.controller('MainController',['$scope', 'AdopiFactory','$filter',
-	function($scope, AdopiFactory, $filter){
+appControllers.controller('MainController',['$scope', 'AdopiFactory', 'AdopiLocalFactory','$filter',
+	function($scope, AdopiFactory, AdopiLocalFactory, $filter){
 		$scope.currentPage = 1;
   		$scope.numberPerPage = 12;
   		$scope.numberpageShow = 5;
   		var i=0;
-
-  		$scope.pageChangeHandler = function(num) {
-		    console.log('going to page ' + num);
-		};
 			
 			AdopiFactory.userList(i).success(
 		 		function(list){
@@ -22,8 +18,9 @@ appControllers.controller('MainController',['$scope', 'AdopiFactory','$filter',
 		 			AdopiLocalFactory.userLocalList().success(
 		 				function(list){
 		 					$scope.list = list.results;
-		 				}
-		 			);
+		 					console.log('Local Factory numero 1 (0)', list.results[0]);
+		 				});
+		 			
 		 	});		 
 
 }]);
@@ -33,11 +30,19 @@ appControllers.controller('UserController', ['$scope',
 	
 }]);
 
-appControllers.controller('UserDetailController', ['$scope', 'AdopiFactory','$stateParams','$filter', 
-	function($scope, AdopiFactory, $stateParams, $filter){
+appControllers.controller('UserDetailController', ['$scope', 'AdopiFactory', 'AdopiLocalFactory','$stateParams','$filter', 
+	function($scope, AdopiFactory, AdopiLocalFactory, $stateParams, $filter){
 
-		AdopiFactory.userDetail($stateParams.userId).success(function(detail){$scope.detail = detail;
-			$filter('imgUrlFilter')($scope.detail.cover);
+		AdopiFactory.userDetail($stateParams.userId).success(function(details){$scope.details = details;
+			$filter('imgUrlFilter')($scope.details.cover);
+		}).
+		error(function(){
+			AdopiLocalFactory.userLocalDetail($stateParams.userId).success(
+				function(details){
+					$scope.details = details;
+					$filter('imgUrlFilter')($scope.detail.pics);
+					console.log('Local Factory detail', detail.pseudo);
+			});
 		});
 
 		

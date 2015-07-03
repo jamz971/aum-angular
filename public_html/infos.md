@@ -5,6 +5,53 @@ Auth avec login et mdp du site adopteunmec. compte test
 tester un appel sans avoir à saisir les infos
 
 
+exemple WS avec option activated ou
+
+get: function(id) {
+                    if(ApplicationConfiguration.webServiceActivated) {
+                        return this.getFromWebservice(id);
+                    } else {
+                        return this.getFromLocal(id);
+                    }
+                },
+                getFromLocal: function(id) {
+                    var deferred = $q.defer();
+
+                    var result = $resource('data/webservices/' + id + '.json', {}, {
+                        query: {
+                            method: 'GET',
+                            isArray: true,
+                            cache: IndicateurCache.get()
+                        }
+                    }).query(function(result) {
+                        deferred.resolve(result);
+                    });
+
+                    return deferred.promise;
+                },
+                getFromWebservice: function(id) {
+                    var deferred = $q.defer();
+
+                    delete $http.defaults.headers.common['X-Request-With'];
+                    //$http.defaults.headers.common['Authorization'] = 'Basic a3JvbWk6a3JvbWl0ZXN0';
+
+                    $resource(ApplicationConfiguration.webServiceURL + id, {}, {
+                        get: {
+                            method: 'GET',
+                            headers: {
+                                'Authorization': ApplicationConfiguration.webServiceAUTH
+                            },
+                            isArray: true,
+                            cache:  IndicateurCache.get(),
+                        }
+                    }).query(function(result){
+                        deferred.resolve(result);
+                    });
+
+                    return deferred.promise;
+                },
+
+
 listFromWebservice: function() {
                     var deferred = $q.defer();
 

@@ -8,22 +8,22 @@
   </ol>
 
   <!-- Wrapper for slides -->
-  <div class="carousel-inner" role="listbox">
-    <div class="item active">
-      <img src="img_chania.jpg" alt="Chania">
+  <div class="carousel-inner" role="listbox" >
+    <div class="item active" ng-repeat="detail in details">
+      <img ng-src="{{detail.pics | imgUrlFilter: detail.pics}}" alt="{{detail.pseudo}}">
     </div>
 
-    <div class="item">
+    <!-- <div class="item">
       <img src="img_chania2.jpg" alt="Chania">
     </div>
-
+    
     <div class="item">
       <img src="img_flower.jpg" alt="Flower">
     </div>
-
+    
     <div class="item">
       <img src="img_flower2.jpg" alt="Flower">
-    </div>
+    </div> -->
   </div>
 
   <!-- Left and right controls -->
@@ -38,7 +38,7 @@
 </div>
 
 <div class="list-group">
-    <img  src="{{::detail.cover | imgUrlFilter:g.cover}}" class="img-thumbnail">
+    <img  src="{{detail.cover | imgUrlFilter:detail.cover}}" class="img-thumbnail">
     <p>{{detail.pseudo}} {{detail.age}} ans</p>
     <p class="text-primary" ng-bind="detail.city"></p>
     <p> <span ng-bind="detail.last_cnx_label"></span> le : <span ng-bind="detail.last_cnx"></span></p>

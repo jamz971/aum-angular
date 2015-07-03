@@ -23,19 +23,19 @@ appFactories.factory('AdopiFactory',['$http','$resource','wsConstants','$cacheFa
         },      
         
         userDetail: function($resource){
-            var url = 'http://api.adopteunmec.com/api/users/'+$resource;
-            //$http.defaults.headers.common.Authorization = wsConstants.webServiceAUTH;
-            return $http.get(url, {cache:true})
+            return $http.get('http://api.adopteunmec.com/api/users/'+$resource, {cache:true});
         }
     };
 }]);
 
-appFactories.factory('AdopiLocalFactory',['$http','$resource','wsConstants','$cacheFactory',function($http, $resource, wsConstants, $cacheFactory){
+appFactories.factory('AdopiLocalFactory',['$http',function($http){
     return {
-
-
         userLocalList: function(){
-            return $http.get('data/nantes/nantes.json');
+            return $http.get('data/nantes/list/nantes_01.json');
+        },
+
+        userLocalDetail: function($resource){
+            return $http.get('data/nantes/detail/'+$resource+'.json');
         }
     };
 }]);
