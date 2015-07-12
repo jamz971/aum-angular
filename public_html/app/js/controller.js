@@ -8,20 +8,23 @@ appControllers.controller('MainController',['$scope', 'AdopiFactory', 'AdopiLoca
   		$scope.numberpageShow = 5;
   		var i=0;
 			
-			AdopiFactory.userList(i).success(
-		 		function(list){
-		 		$scope.list = list.results;
-		 		//console.log($filter('imgUrlFilter')($scope.list[i].cover));		 	
-		 	}).
-		 	error(
-		 		function(){
-		 			AdopiLocalFactory.userLocalList().success(
-		 				function(list){
-		 					$scope.list = list.results;
-		 					console.log('Local Factory numero 1 (0)', list.results[0]);
-		 				});
-		 			
-		 	});		 
+  		var getLocal = AdopiLocalFactory.userLocalList().success(
+			function(list){
+				$scope.list = list.results;
+				console.log('Local Factory numero 1 (0)', list.results[0]);
+			}
+		);
+
+
+		AdopiFactory.userList(i).success(
+	 		function(list){
+	 		$scope.list = list.results;
+	 		//console.log($filter('imgUrlFilter')($scope.list[i].cover));		 	
+	 	}).
+	 	error(function(){
+	 			
+	 			
+	 	});		 
 
 }]);
 
@@ -47,33 +50,3 @@ appControllers.controller('UserDetailController', ['$scope', 'AdopiFactory', 'Ad
 
 		
 }]);
-
-
-
-/*app.controller('MainController',['$scope', 'AdopiService',
-	function($scope, AdopiService){
-
-		$scope.list = AdopiService.userList();
-		console.log($scope.list);
-
-}]);
-
-app.controller('UserController', ['$scope', 
-	function($scope){
-	
-}]);*/
-
-/*app.controller('UserDetailController', ['$scope', 'AdopiFactory','$stateParams', 
-	function($scope, AdopiFactory, $stateParams){
-		$scope.routeParams = $stateParams;
-		$scope.detail = AdopiFactory.userDetail($stateParams.userId);
-		console.log($scope.detail);
-		console.log($scope.routeParams);
-}]);
-
-app.controller('SearchController', ['$scope', 'AdopiFactory','$stateParams', 
-	function($scope, AdopiFactory){
-
-		$scope.search = AdopiFactory.searchUsers($stateParams);
-		console.log($scope.search);
-}]);*/

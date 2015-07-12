@@ -9,21 +9,10 @@
 
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox" >
-    <div class="item active" ng-repeat="detail in details">
+  	<div class="item active" ng-repeat="detail in details">
       <img ng-src="{{detail.pics | imgUrlFilter: detail.pics}}" alt="{{detail.pseudo}}">
     </div>
 
-    <!-- <div class="item">
-      <img src="img_chania2.jpg" alt="Chania">
-    </div>
-    
-    <div class="item">
-      <img src="img_flower.jpg" alt="Flower">
-    </div>
-    
-    <div class="item">
-      <img src="img_flower2.jpg" alt="Flower">
-    </div> -->
   </div>
 
   <!-- Left and right controls -->

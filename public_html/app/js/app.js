@@ -2,6 +2,7 @@
 
 var app = angular.module('adopteUnMec',[
 	'ui.router',
+    //'angular.filter',
     'ngResource',
     'angularUtils.directives.dirPagination',
     'appFactories',
