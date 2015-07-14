@@ -11,14 +11,12 @@ appFactories.factory('AdopiFactory',['$http','$resource','wsConstants','$cacheFa
         },
 
         userList: function(offset){
-           var url = wsConstants.webServiceURL+'users?count=200&offset='+offset;
-           //delete $http.defaults.headers.common['X-Request-With'];
-           //$http.defaults.headers.common.Authorization = wsConstants.webServiceAUTH;
+            var url = wsConstants.webServiceURL+'users?count=243&offset='+offset;
             return $http.get(url, {cache:true});
         },
 
         searchUsers: function(requete, offset){
-           var url = wsConstants.webServiceURL+'loop?count=200&q='+ requete +'&offset='+offset;
+            var url = wsConstants.webServiceURL+'loop?count=243&q='+ requete +'&offset='+offset;
             return $http.get(url, {cache:true});
         },      
         

@@ -36,8 +36,10 @@ appControllers.controller('UserController', ['$scope',
 appControllers.controller('UserDetailController', ['$scope', 'AdopiFactory', 'AdopiLocalFactory','$stateParams','$filter', 
 	function($scope, AdopiFactory, AdopiLocalFactory, $stateParams, $filter){
 
-		AdopiFactory.userDetail($stateParams.userId).success(function(details){$scope.details = details;
-			$filter('imgUrlFilter')($scope.details.cover);
+		AdopiFactory.userDetail($stateParams.userId).success(
+			function(details){
+				$scope.details = details;
+				$filter('imgUrlFilter')($scope.details.cover);
 		}).
 		error(function(){
 			AdopiLocalFactory.userLocalDetail($stateParams.userId).success(

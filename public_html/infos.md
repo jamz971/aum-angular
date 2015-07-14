@@ -1,6 +1,6 @@
 Auth avec login et mdp du site adopteunmec. compte test
-<identifiant = 'test@gustr.com'>
-<password ='123456971'>
+identifiant = 'test@gustr.com'
+password ='123456971'
 
 tester un appel sans avoir à saisir les infos
 

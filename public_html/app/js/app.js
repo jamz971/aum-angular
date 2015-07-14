@@ -12,15 +12,14 @@ var app = angular.module('adopteUnMec',[
 
 app.constant('wsConstants',{
     webServiceURL : 'http://api.adopteunmec.com/api/',
-    webServiceAUTH : 'Basic d2F0c29uLmplc3N5QG9yYW5nZS5mcjoxMjM0NTY5NzE='
+    webServiceAUTH : 'Basic dGVzdEBndXN0ci5jb206MTIzNDU2OTcx',
+    webServiceActivated : true
 });
+
 app.constant('loginConstants', {
     loginUser : '',
     loginPwd : ''
 });
-
-//var webServiceURL = 'http://api.adopteunmec.com/api/';
-//var webServiceAUTH = 'Basic a3JvbWk6a3JvbWl0ZXN0';  //d2F0c29uLmplc3N5QG9yYW5nZS5mcjoxMjM0NTY5NzE=
 
 app.config(function($stateProvider, $urlRouterProvider) {
     $urlRouterProvider.otherwise('/');

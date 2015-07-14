@@ -1,0 +1,11 @@
+# ignorer tous les fichiers dans le répertoire build
+libs/
+Mockup/
+node_modules/
+test/
+nbproject/
+infos.md
+
+# pas de fichier .php
+*.php
+*.bmmlc
