@@ -21,7 +21,8 @@ appFactories.factory('AdopiFactory',['$http','$resource','wsConstants','$cacheFa
         },      
         
         userDetail: function($resource){
-            return $http.get('http://api.adopteunmec.com/api/users/'+$resource, {cache:true});
+            return $http.get('http://api.adopteunmec.com/api/users/'+$resource);
+            console.log('userDetail', $resource);
         }
     };
 }]);
@@ -34,6 +35,7 @@ appFactories.factory('AdopiLocalFactory',['$http',function($http){
 
         userLocalDetail: function($resource){
             return $http.get('data/nantes/detail/'+$resource+'.json');
+            console.log('userLocalDetail', $resource);
         }
     };
 }]);

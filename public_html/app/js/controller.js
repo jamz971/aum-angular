@@ -40,15 +40,15 @@ appControllers.controller('UserDetailController', ['$scope', 'AdopiFactory', 'Ad
 			function(details){
 				$scope.details = details;
 				$filter('imgUrlFilter')($scope.details.cover);
+				console.log("Controller Details Profile", details.pseudo, details.pics, Details.cover);
 		}).
 		error(function(){
 			AdopiLocalFactory.userLocalDetail($stateParams.userId).success(
 				function(details){
 					$scope.details = details;
-					$filter('imgUrlFilter')($scope.detail.pics);
-					console.log('Local Factory detail', detail.pseudo);
+					$filter('imgUrlFilter')($scope.details.pics);
+					console.log('Local Factory detail', details.pseudo);
 			});
 		});
-
 		
 }]);

@@ -26,15 +26,15 @@
     </div>
 </div>
 <div id="products" class="row clearfix list-group">
-    <div class="col-xs-4 col-md-4 item" dir-paginate="g in ::list | filter:query | itemsPerPage: numberPerPage" current-page="currentPage">
+    <div class="col-xs-4 col-md-4 item" dir-paginate="g in list | filter:query | itemsPerPage: numberPerPage" current-page="currentPage">
         <div class="thumbnail">
             <a ui-sref="profile({userId:g.id})">
                 <img  ng-src="{{g.cover | imgUrlFilter:g.cover}}" class=" group list-group-image" style="width:200px; height:200px; ">
             </a>
 
             <div class="caption">
-                <p class="group inner list-group-item-text"> <span ng-bind="g.pseudo | uppercase"></span> <span ng-bind="::g.age"> ans</span>
-                <span class="text-primary" ng-bind="::g.city"></span>
+                <p class="group inner list-group-item-text"> <span ng-bind="g.pseudo | uppercase"></span> <span ng-bind="g.age"> ans</span>
+                <span class="text-primary" ng-bind="g.city"></span>
                 </p>
                 <div class="tags">
                     <a ng-repeat="hashtag in g.hashtags" ui-sref="tag-detail({tagId:hashtag.id})"> #{{hashtag.label}} </a>

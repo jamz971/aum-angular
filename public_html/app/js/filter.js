@@ -2,7 +2,7 @@
 var appFilters = angular.module('appFilters', []);
 
 appFilters.filter('imgUrlFilter', function(){
-	return function(input, urlBase, str1, str2, a, str3, id){
+	return function(input, urlBase, str1, str2, a, str3, id, length){
 		urlBase = 29;
 		length = input.length;
 

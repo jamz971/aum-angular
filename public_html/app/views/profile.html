@@ -4,15 +4,29 @@
     <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
     <li data-target="#myCarousel" data-slide-to="1"></li>
     <li data-target="#myCarousel" data-slide-to="2"></li>
-    <li data-target="#myCarousel" data-slide-to="3"></li>
   </ol>
 
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox" >
-  	<div class="item active" ng-repeat="detail in details">
-      <img ng-src="{{detail.pics | imgUrlFilter: detail.pics}}" alt="{{detail.pseudo}}">
-    </div>
+    <!-- <div class="item active" ng-repeat="profileDetail in details">
+     <img ng-src="{{profileDetail.pics | imgUrlFilter: profileDetail.pics}}" alt="">
+    </div> 
 
+    ls pics ne sont pas bien encapsulé comme les tags pour mettre un repeteur
+    pics[http://s0.adopteunmec.com/fr/0/2/0/8/7/9/2/14,
+        http://s0.adopteunmec.com/fr/0/2/0/8/7/9/2/17
+        ]
+        il faut arriver à les séparer avec un filtre surement
+    -->
+    <div class="item active">
+      <img src="http://s0.adopteunmec.com/fr/0/2/0/8/7/9/2/image14.jpg" alt="">
+    </div>
+    <div class="item">
+      <img src="http://s0.adopteunmec.com/fr/0/2/0/8/7/9/2/image15.jpg" alt="">
+    </div>
+    <div class="item">
+      <img src="http://s0.adopteunmec.com/fr/0/2/0/8/7/9/2/image17.jpg" alt="">
+    </div>
   </div>
 
   <!-- Left and right controls -->
@@ -27,11 +41,14 @@
 </div>
 
 <div class="list-group">
-    <img  src="{{detail.cover | imgUrlFilter:detail.cover}}" class="img-thumbnail">
-    <p>{{detail.pseudo}} {{detail.age}} ans</p>
-    <p class="text-primary" ng-bind="detail.city"></p>
-    <p> <span ng-bind="detail.last_cnx_label"></span> le : <span ng-bind="detail.last_cnx"></span></p>
-    <p ng-bind="detail.about1"></p>
-    <p ng-bind="detail.about2"></p>              
+    <img  src="{{details.cover | imgUrlFilter:details.cover}}" class="img-thumbnail">
+    <p>{{details.pseudo}} {{details.age}} ans</p>
+    <p class="text-primary" ng-bind="details.city"></p>
+    <p> <span ng-bind="details.last_cnx_label"></span> le : <span ng-bind="details.last_cnx"></span></p>
+    <div class="tags">
+      <a ng-repeat="hashtag in details.hashtags" ui-sref="tag-detail({tagId:hashtag.id})"> #{{hashtag.label}} </a>
+    </div>
+    <p ng-bind="details.about1"></p>
+    <p ng-bind="details.about2"></p>              
 </div>
 <!-- caroussel photo -->
